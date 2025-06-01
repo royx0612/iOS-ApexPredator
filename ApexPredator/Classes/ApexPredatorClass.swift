@@ -33,7 +33,9 @@ class ApexPredatorClass {
         print("load success for \(apexPredators.count) dinosaurs")
     }
     
-    func search(for searchText: String, by sortByAlphabetically: Bool) -> [ApexPredatorStruct] {
+    func search(for searchText: String, by sortByAlphabetically: Bool, as type: TypeEnum) -> [ApexPredatorStruct] {
+        filter(as: type)
+        
         sort(by: sortByAlphabetically)
         
         if(searchText == ""){
@@ -45,8 +47,16 @@ class ApexPredatorClass {
         }
     }
     
-    func sort(by sortByAlphabetically: Bool){
-        return apexPredators.sort { a, b in
+    func filter(as type: TypeEnum) -> Void{
+        if(type != .all){
+            apexPredators = apexPredators.filter { apexPredator in
+                apexPredator.type == type
+            }
+        }
+    }
+    
+    func sort(by sortByAlphabetically: Bool) -> Void{
+        apexPredators.sort { a, b in
             return sortByAlphabetically ? a.name < b.name : a.id < b.id
         }
     }

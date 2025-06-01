@@ -14,9 +14,10 @@ struct ContentView: View {
     
     @State var sortByAlphabetically: Bool = false
     
+    @State var filterType: TypeEnum = .all
     var body: some View {
         NavigationStack{
-            List(apexPredatorData.search(for: searchText, by: sortByAlphabetically)){ predator in
+            List(apexPredatorData.search(for: searchText, by: sortByAlphabetically, as: filterType)){ predator in
                 NavigationLink{
                     Image(predator.image)
                         .resizable()
@@ -63,6 +64,17 @@ struct ContentView: View {
                     } label:{
                     Image(systemName: sortByAlphabetically ? "film" : "textformat")
                             .symbolEffect(.bounce, value: sortByAlphabetically)
+                    }
+                }
+                ToolbarItem(placement: .topBarTrailing){
+                    Menu {
+                        Picker("過濾", selection: $filterType) {
+                            ForEach(TypeEnum.allCases){ type in
+                                Label(type.name, systemImage: type.systemImageName)
+                            }
+                        }
+                    } label: {
+                        Image(systemName: "slider.horizontal.3")
                     }
                 }
             }
