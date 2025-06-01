@@ -32,4 +32,22 @@ class ApexPredatorClass {
         // for debug
         print("load success for \(apexPredators.count) dinosaurs")
     }
+    
+    func search(for searchText: String, by sortByAlphabetically: Bool) -> [ApexPredatorStruct] {
+        sort(by: sortByAlphabetically)
+        
+        if(searchText == ""){
+            return apexPredators
+        }
+        
+        return apexPredators.filter { predator in
+            predator.name.localizedCaseInsensitiveContains(searchText)
+        }
+    }
+    
+    func sort(by sortByAlphabetically: Bool){
+        return apexPredators.sort { a, b in
+            return sortByAlphabetically ? a.name < b.name : a.id < b.id
+        }
+    }
 }

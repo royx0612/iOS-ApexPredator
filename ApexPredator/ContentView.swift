@@ -12,22 +12,16 @@ struct ContentView: View {
     
     @State var searchText: String = ""
     
-    var filteredPredators: [ApexPredatorStruct] {
-        let unfilteredPredators = apexPredatorData.apexPredators
-        if(searchText == ""){
-            return unfilteredPredators
-        }
-        
-        return unfilteredPredators.filter { predator in
-            predator.name.localizedCaseInsensitiveContains(searchText)
-        }
-    }
+    @State var sortByAlphabetically: Bool = false
     
     var body: some View {
         NavigationStack{
-            List(filteredPredators){ predator in
+            List(apexPredatorData.search(for: searchText, by: sortByAlphabetically)){ predator in
                 NavigationLink{
-                    
+                    Image(predator.image)
+                        .resizable()
+                        .scaledToFit()
+                        .shadow(color: .white, radius: 1)
                 }label: {
                     HStack{
                         // imgage
@@ -62,6 +56,16 @@ struct ContentView: View {
             .preferredColorScheme(.dark)
             .autocorrectionDisabled()
             .animation(.default, value: searchText)
+            .toolbar {
+                ToolbarItem(placement: .topBarLeading){
+                    Button {
+                        sortByAlphabetically.toggle()
+                    } label:{
+                    Image(systemName: sortByAlphabetically ? "film" : "textformat")
+                            .symbolEffect(.bounce, value: sortByAlphabetically)
+                    }
+                }
+            }
         }
     }
 }
