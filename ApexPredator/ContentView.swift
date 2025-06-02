@@ -19,11 +19,8 @@ struct ContentView: View {
         NavigationStack{
             List(apexPredatorData.search(for: searchText, by: sortByAlphabetically, as: filterType)){ predator in
                 NavigationLink{
-                    Image(predator.image)
-                        .resizable()
-                        .scaledToFit()
-                        .shadow(color: .white, radius: 1)
-                }label: {
+                    PredatorDetailView(predator: predator)
+                } label: {
                     HStack{
                         // imgage
                         Image(predator.image)
@@ -54,7 +51,6 @@ struct ContentView: View {
             }
             .navigationTitle("頂級掠食者")
             .searchable(text: $searchText, prompt: "搜尋")
-            .preferredColorScheme(.dark)
             .autocorrectionDisabled()
             .animation(.default, value: searchText)
             .toolbar {
@@ -79,6 +75,7 @@ struct ContentView: View {
                 }
             }
         }
+        .preferredColorScheme(.dark)
     }
 }
 
