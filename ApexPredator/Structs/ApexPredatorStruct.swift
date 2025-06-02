@@ -5,6 +5,7 @@
 //  Created by 呂騰耀 on 2025/5/30.
 //
 import SwiftUI
+import MapKit
 
 struct ApexPredatorStruct: Decodable, Identifiable {
     let id: Int
@@ -25,5 +26,10 @@ struct ApexPredatorStruct: Decodable, Identifiable {
         let id: Int
         let movie: String
         let sceneDescription: String
+    }
+    
+    
+    var location: CLLocationCoordinate2D {
+        return CLLocationCoordinate2D(latitude: latitude, longitude: longitude)
     }
 }

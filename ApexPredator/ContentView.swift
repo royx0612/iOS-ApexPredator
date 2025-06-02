@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import MapKit
 
 struct ContentView: View {
     let apexPredatorData = ApexPredatorClass()
@@ -19,7 +20,12 @@ struct ContentView: View {
         NavigationStack{
             List(apexPredatorData.search(for: searchText, by: sortByAlphabetically, as: filterType)){ predator in
                 NavigationLink{
-                    PredatorDetailView(predator: predator)
+                    PredatorDetailView(predator: predator, position: .camera(
+                        MapCamera(
+                            centerCoordinate: predator.location,
+                            distance: 30000
+                        )
+                    ))
                 } label: {
                     HStack{
                         // imgage

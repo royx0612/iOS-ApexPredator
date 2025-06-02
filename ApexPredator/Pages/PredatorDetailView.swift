@@ -6,10 +6,13 @@
 //
 
 import SwiftUI
+import MapKit
 
 struct PredatorDetailView: View {
     
     @State var predator: ApexPredatorStruct
+    
+    @State var position: MapCameraPosition
     
     var body: some View {
         GeometryReader { geo in
@@ -41,7 +44,40 @@ struct PredatorDetailView: View {
                     Text(predator.name)
                         .font(.largeTitle)
                     
-                    // localtion
+                    NavigationLink {
+                        Image(predator.image)
+                            .resizable()
+                            .scaledToFit()
+                       
+                    } label: {
+                        // localtion
+                        Map(position: $position){
+                            Annotation("地圖", coordinate: predator.location){
+                                Image(systemName: "mappin.and.ellipse")
+                                    .font(.largeTitle)
+                                    .imageScale(.large)
+                                    .symbolEffect(.pulse)
+                            }
+                        }
+                        .frame(height: 150)
+                        .clipShape(.rect(cornerRadius: 15))
+                        .padding(.bottom)
+                        .overlay(alignment: .trailing){
+                            Image(systemName: "greaterthan")
+                                .imageScale(.large)
+                                .font(.title3)
+                                .padding(.trailing, 5)
+                        }
+                        .overlay(alignment: .topLeading){
+                            Text("當前位置")
+                                .padding(5)
+                                .background(.black.opacity(0.7))
+                                .clipShape(.rect(cornerRadius: 15))
+                                .font(.caption)
+                        }
+                    }
+                    
+                    
                     Text("出現在：")
                         .font(.title3)
                     
@@ -85,6 +121,19 @@ struct PredatorDetailView: View {
 }
 
 #Preview {
-    PredatorDetailView(predator: ApexPredatorClass().apexPredators[7])
+    let predator = ApexPredatorClass().apexPredators[7]
+    
+    NavigationStack{
+        PredatorDetailView(
+            predator: predator,
+            position: .camera(
+                MapCamera(
+                    centerCoordinate: predator.location,
+                    distance: 30000
+                )
+            )
+        )
         .preferredColorScheme(.dark)
+    }
+    
 }
