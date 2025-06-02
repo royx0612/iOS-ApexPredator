@@ -34,29 +34,28 @@ class ApexPredatorClass {
     }
     
     func search(for searchText: String, by sortByAlphabetically: Bool, as type: TypeEnum) -> [ApexPredatorStruct] {
-        filter(as: type)
+        let filteredApexPredators = filter(as: type, from: self.apexPredators)
         
-        sort(by: sortByAlphabetically)
+        let sortedApexPredators = sort(by: sortByAlphabetically, from: filteredApexPredators)
         
-        if(searchText == ""){
-            return apexPredators
-        }
-        
-        return apexPredators.filter { predator in
-            predator.name.localizedCaseInsensitiveContains(searchText)
-        }
+      
+        return searchText.isEmpty
+            ? sortedApexPredators
+            : sortedApexPredators.filter { predator in
+                predator.name.localizedCaseInsensitiveContains(searchText)
+            }
     }
     
-    func filter(as type: TypeEnum) -> Void{
-        if(type != .all){
-            apexPredators = apexPredators.filter { apexPredator in
+    func filter(as type: TypeEnum, from apexPredators: [ApexPredatorStruct]) -> [ApexPredatorStruct]{
+        return type == .all
+            ? apexPredators
+            : apexPredators.filter { apexPredator in
                 apexPredator.type == type
             }
-        }
     }
     
-    func sort(by sortByAlphabetically: Bool) -> Void{
-        apexPredators.sort { a, b in
+    func sort(by sortByAlphabetically: Bool, from apexPredators: [ApexPredatorStruct]) -> [ApexPredatorStruct]{
+        return apexPredators.sorted { a, b in
             return sortByAlphabetically ? a.name < b.name : a.id < b.id
         }
     }

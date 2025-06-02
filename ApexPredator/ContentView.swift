@@ -70,7 +70,7 @@ struct ContentView: View {
                     Menu {
                         Picker("過濾", selection: $filterType) {
                             ForEach(TypeEnum.allCases){ type in
-                                Label(type.name, systemImage: type.systemImageName)
+                                Label(type.name, systemImage: type.systemImageName).tag(type)
                             }
                         }
                     } label: {
