@@ -42,7 +42,7 @@ struct ContentView: View {
                                 .fontWeight(.bold)
                             
                             // type
-                            Text(predator.type.rawValue)
+                            Text(predator.type.name)
                                 .font(.subheadline)
                                 .fontWeight(.semibold)
                                 .padding(.horizontal, 13)
@@ -82,6 +82,7 @@ struct ContentView: View {
             }
         }
         .preferredColorScheme(.dark)
+        .ignoresSafeArea(.container, edges: .top)
     }
 }
 

@@ -1,569 +1,605 @@
 [
-	{
-		"id": 1,
-		"name": "Velociraptor",
+    {
+        "id": 1,
+        "name": "迅猛龍",
         "type": "land",
         "latitude": 32.8236,
         "longitude": -96.7166,
-		"movies": [
-			"Jurassic Park",
-			"The Lost World: Jurassic Park",
-			"Jurassic Park III",
-			"Jurassic World",
-			"Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
-		],
-		"movie_scenes": [
-			{
-                "id": 1,
-				"movie": "Jurassic Park",
-				"scene_description": "A velociraptor appears in the very first scene in Jurassic Park when Muldoon and his team try to bring a female into the park. It attacks one of the team members and they are forced to shoot it. They don’t appear then until far later in the film when Ellie and Muldoon have to restore the park’s power systems. Muldoon realises they’re being hunted by them and tells Ellie to run to the power shed as he tracks a Velociraptor with his gun. She restores the power and finds what’s left of Ray and she narrowly escapes from a Velociraptor. Muldoon is still tracking a raptor when the female ambushes him, killing him. The raptors appear again in the visitor center when Lex and Tim are eating. They hide in the kitchen and avoid being detected. They managed to trap one of them and escape. The raptors catch up with the group in the control room so Ellie, Dr. Grant, Tim and Lex escape through the vents and into the main lobby area of the visitor center. They fall to the ground and are about to be attacked by two Velociraptors when the Tyrannosaur appears, killing both of them. The survivors use this opportunity to escape the island."
-			},
-			{
-                "id": 2,
-				"movie": "The Lost World: Jurassic Park",
-				"scene_description": "The Velociraptors appear once again towards the end of The Lost World. When Roland’s team escape the Tyrannosaurus at their camp, they wonder into the tall grass. The raptors close in on them and start picking the team off one by one. Dr. Malcolm, Kelly and Sarah make it to the compound in the middle of the island. One of the raptors jumps on Sarah’s backpack and Sarah and Kelly flee into a nearby building with two raptors in pursuit. Malcolm tires to evade the other one by hiding in a nearby building and then inside a car. The other two velociraptors make it inside the building and Sarah and Kelly climb to the top. Kelly uses her acrobatic skills to impale a raptor on a metal pole. They escape through the top of the building with the other one right behind them. It falls off the roof and onto the other raptor on the ground. They start fighting each other which gives Sarah and Kelly the opportunity to escape."
-			},
-			{
-                "id": 3,
-				"movie": "Jurassic Park III",
-				"scene_description": "The film starts off with Dr. Grant and his colleague Billy discussing a Velociraptor’s communicative intelligence. Billy uses a 3D printer to replicate the larynx of a Velociraptor. When Dr. Grant and the group get stranded on the island, his colleague Billy steals two Velociraptor eggs unknown to the others. When the survivors reach the abandoned laboratory, a raptor sneaks in there and attacks Amanda Kirby. The group runs to the cages and traps one of them. We see its communicative abilities when it actually calls the other Velociraptors for help. The survivors run through a group of Corythosaurus and Parasaurolophus and into the forest. Amanda, Paul and Billy hide in the trees while Dr. Grant is still on the ground. The raptors injure Udesky and set a trap to lure the others down from the tree. Amanda Kirby almost falls from the tree but is saved and Dr. Grant is confronted by a Velociraptor. Eric Kirby comes to his rescue and sprays a gas can and the raptors flee.\n\nWe then see the raptors at the climax of the movie when the survivors are making their way back to the beach. The Velociraptors surround the group and the female raptor challenges Amanda Kirby for the eggs that Billy stole earlier. She hands over the eggs and Dr. Grant uses the imitation raptor larynx to fool the raptors into running off. The survivors then escape the island."
-			},
-			{
-                "id": 4,
-				"movie": "Jurassic World",
-				"scene_description": "In Jurassic World, a pack of Velociraptors each with their own names, Blue, Charlie, Delta, and Echo, are trained by Owen Grady. These raptors each have their unique personalities and skin colors and even head anatomy. InGen, the company that cloned the dinosaurs, wants to use the raptors for military applications. This is also the first time raptors developed a personal bond with humans.\n\nVic Hoskins convinced the IBRIS Project trainers to utilize the raptors in the pursuit of an escaped Indominus rex. But the raptors began to attack humans as the Indominus rex had raptor DNA and became their alpha. In the chaos, Charlie was blown to bits by a rocket launcher. Delta and Echo then tried to eat Claire Dearing, Gray, and Zach Mitchell in their van. Sometime later, Delta suddenly appeared in the Hammond Creation Lab unexpectedly before Owen, Claire, Hoskins, and the boys. They are forced to flee after the raptor killed Hoskins, who failed at trying to calm her down by copying Owen's hand gesture. After killing Hoskins, Delta continued her pursuit of Owen, Claire and the boys before being distracted by a hologram of a Dilophosaurus activated by Gray, but continued her pursuit after realizing it wasn't real.\n\nSoon it turned out Blue herded the humans into a trap. Just as they trapped the humans, the Indominus walked into view. The raptors, however, turned on the Indominus as Owen takes off the video camera from Blue's head, realizing that the hybrid was merely using them. As they refought the Indominus with Owen's help, Blue was knocked unconscious while the other raptors were overpowered. Later, Blue regained consciousness and rejoined the fight, lunging at the hybrid and allowing Jurassic World's T. rex that was from the original Jurassic Park park who had joined the battle in her absence, to get back on her feet after she was pushed to the ground by the Indominus rex. Blue helped the T. rex attack the I. rex. Suddenly, the Mosasaurus dragged the I. rex into the bottom of the lagoon. After the fight, the T. rex decides to spare Blue, most likely due to the already extensive injuries caused by Indominus. Blue then turned towards Owen, chirping at him momentarily before disappearing into the night."
-			},
-			{
-                "id": 5,
-				"movie": "Jurassic World: Fallen Kingdom",
-				"scene_description": "Blue the raptor returns in the film Jurassic World: Fallen Kingdom, making her the first returning Velociraptor character. At the beginning of the movie, it shows Owen Grady watching a training video of him, and her pack as infants on a computer. Early in the story, it is revealed that Blue is still alive but she and many other creatures lives are in danger from the impending eruption of Mount Sibo. The decide to attempt a rescue mission to save Blue, the last surviving Velociraptor.\n\nDuring the rescue mission, Blue was reunited with Owen by startling him when she screeches loudly at him from behind, perched on top of the damaged Jurassic Park Ford tour van that Alan Grant rescued Tim Murphy from, in a greeting. As she slowly approaches him, she begins to press her nose to his palm, remembering him, before jerking her head away with a sharp cry as Ken Wheatley and a team of mercenaries attempts to capture Blue via tranquilizing her. Owen warns them to back up after they refused to wait for his signal to tranquilize her until Blue attacks one of the nearby soldiers, which results in her getting shot in the hip. She gives a wail of pain before falling over onto her side.\n\nOnce Owen is tranquilized by Wheatley after she is shot, Zia Rodriguez rushes to her rescue, telling the mercenaries that she is the only one who can keep Blue alive. She and Blue are subsequently captured, and taken to the East Dock, where Wheatley and the other animal traffickers have captured the other dinosaurs to ship them back to the mainland for Eli Mills and Henry Wu.\n\nInside the back of a military van, Zia and Blue reunite with Owen, Claire, and Franklin to reveal that Blue is hemorrhaging, and will need a blood transfusion from a carnivore with two or three fingers to keep her alive. Owen and Claire end up bringing back blood from the Tyrannosaurus rex, which subsequently saves her life.\n\nAround the same time, Maisie Lockwood watches a training video with Blue as an infant, showing compassion and empathy for Owen, while he pretends to show signs of weakness in front of her.\n\nAfter the Indoraptor's escape, Henry Wu has Franklin, who is disguised as a geneticist to get equipment for him to take blood samples from Blue to create a new batch of Indoraptors, which would subsequently become her children. The plan, however, backfires, as Zia breaks the news to him that Blue's blood is transfused with the Tyrannosaur's, and Franklin stabs him in the neck with a tranquilizer. Two ACU troops attempt to subdue them before Zia releases Blue, who mauls them both, before escaping from the laboratory as it erupts in flames from one of the soldiers' bullets hitting a tank of flammable, toxic, gas.\n\nBlue, after making her way upstairs inside the Lockwood Manor, attacks the Indoraptor in Maisie's bedroom when she sees him preparing to attack Owen. The two battle for a brief moment before they both fall out of a window, with Blue falling in another direction as the Indoraptor continues to pursue Owen and Maisie.\n\nBlue then ambushes the Indoraptor from behind on the roof, pouncing on him. The added weight causes them to fall through the skylight, and land on an Agujaceratops skull, which impales, and kills, the Indoraptor. After giving a shriek of victory, Blue jumps off and runs off.\n\nAfter the dinosaurs from Nublar are released into the open by Maisie, Blue is approached by Owen, who tells her that he can take her to a sanctuary she would be safe at. However, Blue ends up running off, pausing briefly to look back at Owen, making a gentle noise towards him, before running off into the early morning.\n\nAt the ending of the film, it shows Blue overlooking a far-off, suburban, Californian neighborhood, as she calls out."
-			},
-            {
-                "id": 6,
-                "movie": "Jurassic World: Dominion",
-                "scene_description": "In the four years since the 2018 Dinosaur Outbreak, Blue has settled in the Sierra Nevada Mountains and has had a daughter named Beta through asexual reproduction due to the monitor lizard DNA used in Blue's creation. Blue's nest is located in an old bus close to where Owen Grady is living with Claire Dearing and Maisie Lockwood and, although the humans appear to be unaware that Blue is living close by, she is seen observing them from a distance. Blue attempts to hunt a rabbit with her daughter but the small mammal is killed by a solitary wolf. The raptors then attack and kill the wolf, while their roars can be heard next to Owen's home.\n\nIn the extended edition of Jurassic World: Dominion, there is a scene in which after Beta killed the wolf, she is immediately targeted by a couple of hunters, causing Blue to rush towards and killed them.\n\nOne day, Beta wanders onto Owen's property where Maisie attempts to make friends with her before an agitated Blue shows up, none too pleased by her daughter or Maisie's actions. Owen manages to calm his old friend who runs off into the woods with Beta. However, Blue and Beta are ambushed by poachers led by Rainn Delacourt who kidnap Maisie and Beta and run Blue off of the road. Enraged by her daughter's kidnapping, Blue returns to Owen's home where he recognizes that she could potentially kill them in her agitated state with Blue even striking down his outstretched hand, leaving it with a scar. Nonetheless, Owen manages to calm Blue down again and promises his friend that he will bring Blue's daughter back to her before Blue runs off again.\n\nBeta is then transferred to Biosyn's headquarters in the Dolomite Mountains via a transfer plane in Malta, where she is held captive in Henry Wu's laboratory by Lewis Dodgson. When Maisie inquires why she was brought to Biosyn, she learns that in order to understand the pathogen used to save Maisie from the same genetic disorder her mother died from, they needed to examine both her and Beta, which Wu intends to use to kill the genetically modified giant locusts Dodgson made him create to destroy crops not made by Biosyn. After learning this, Maisie releases Beta, who causes havoc and knocks over the lab equipment before escaping into the lab's server rooms.\n\nBeta remains in hiding throughout this time and the chaos of Dodgson's attempt to burn the locusts and destroy the evidence to his crimes, which causes a forest fire and evacuation of the staff and dinosaurs in the sanctuary there, until Owen, Maisie, and Alan Grant come to find her. Agitated and scared, Beta tries to attack them, but Maisie, utilizing Owen's training, uses her adoptive father's techniques to keep Beta's attention with Alan's help until Owen tranquilizes her. They then carry the unconscious Beta out, strapped to Owen's back, where she remains until they escape Biosyn via helicopter.\n\nAfter a repentant Dr. Wu takes a sample of Beta's blood and Maisie's to stop the locusts, Owen, Claire, and Maisie return Beta home to Blue. Reunited with her mother, she runs off into the wilderness as Blue says goodbye to Owen before joining her daughter, both free at last."
-            }
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Velociraptor"
-	},
-    {
-        "id": 2,
-        "name": "Brachiosaurus",
-        "type": "land",
-        "latitude": 41.1403,
-        "longitude": -104.8202,
         "movies": [
-            "Jurassic Park",
-            "Jurassic Park III",
-            "Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
+            "侏羅紀公園",
+            "失落的世界: 侏羅紀公園",
+            "侏羅紀公園 III",
+            "侏羅紀世界",
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
         ],
         "movie_scenes": [
             {
                 "id": 1,
-                "movie": "Jurassic Park",
-                "scene_description": "The Brachiosaurus was the first dinosaur encountered by the endorsement team hired by InGen to make sure Jurassic Park was safe for visitors. The entire team was amazed. Dr. Alan Grant and Dr. Ellie Sattler were the most awestruck of the group because the Brachiosaurus was terrestrial, not semi-aquatic swamp dwellers they had thought they were.\n\nWhen Dennis Nedry disabled Jurassic Park's security systems, the security fences that kept the prehistoric animals from escaping their enclosures were disabled as well, Brachiosaurus was one of the dinosaurs that were able to roam freely.\n\nAfter fleeing from the Tyrannosaur Paddock, Dr. Alan Grant and Tim and Lex Murphy climbed a tree where saw a herd of Brachiosaurus feeding on the nearby trees, hooting in the distance. Dr. Alan Grant heard their calls and attempted to imitate them to successful results. The following morning, a Brachiosaurus sick with a cold or a similar disease fed on the tree that the three humans were sleeping in, waking them up. Lex panicked at the sight of the dinosaur, believing it to be dangerous at first, but she soon calmed down when Dr. Alan Grant and her brother showed her that it was harmless. Dr. Grant fed the Brachiosaurus a nearby branch on the tree and Tim Murphy even pet it. However, when Lex attempted to pet the dinosaur like her brother did, the Brachiosaurus responded by sneezing on her. The humans and the Brachiosaurus later went their separate ways.\n\nIt is unknown what happened to the Brachiosaur populations on Isla Nublar after the Isla Nublar Incident of 1993.\n\nHowever, according to information revealed by InGen reports, there were at least 5 surviving Brachiosaurus on the island by October 1994. One died due to malnutrition."
+                "movie": "侏羅紀公園",
+                "scene_description": "迅猛龍出現在侏羅紀公園的第一個場景中，當時馬爾登和他的團隊試圖將一隻雌性迅猛龍帶入公園。牠攻擊了其中一名團隊成員，他們被迫射殺了牠。直到電影後期，當艾莉和馬爾登必須恢復公園的電力系統時，牠們才再次出現。馬爾登意識到他們正被迅猛龍獵捕，告訴艾莉跑向電力棚，而他則用槍追蹤一隻迅猛龍。她恢復了電力，發現了雷的遺骸，並險些被一隻迅猛龍抓住。馬爾登仍在追蹤一隻迅猛龍時，雌性迅猛龍伏擊了他，殺死了他。當雷克斯和提姆在遊客中心吃東西時，迅猛龍再次出現。他們躲在廚房裡，避免被發現。他們成功困住了其中一隻並逃脫了。迅猛龍在控制室追上了這群人，所以艾莉、格蘭特博士、提姆和雷克斯通過通風管道逃到了遊客中心的主大廳區域。他們摔到地上，正要被兩隻迅猛龍攻擊時，霸王龍出現了，殺死了牠們兩隻。倖存者利用這個機會逃離了島嶼。"
             },
             {
                 "id": 2,
-                "movie": "Jurassic Park III",
-                "scene_description": "Passengers of the plane N622DC saw a herd of Brachiosaurus during their fly-over of Isla Sorna at the beginning of the Isla Sorna Incident of 2001.\n\nAnother herd was seen by Dr. Alan Grant and the Kirby family at a river bank."
+                "movie": "失落的世界: 侏羅紀公園",
+                "scene_description": "迅猛龍再次出現在失落的世界的結尾。當羅蘭的團隊從他們營地的霸王龍那裡逃脫時，他們走進了高草叢中。迅猛龍逼近他們，開始一個接一個地攻擊團隊成員。馬爾康博士、凱莉和莎拉抵達了島嶼中央的建築群。其中一隻迅猛龍跳上了莎拉的背包，莎拉和凱莉逃進了附近的建築物，兩隻迅猛龍在後面追趕。馬爾康試圖躲在附近的建築物裡，然後躲在車內來躲避另一隻。另外兩隻迅猛龍進入了建築物，莎拉和凱莉爬到了頂部。凱莉用她的雜技技能將一隻迅猛龍刺穿在金屬桿上。他們通過建築物頂部逃脫，另一隻緊跟在後面。牠從屋頂掉下來，撞到了地上的另一隻迅猛龍。牠們開始互相打鬥，這給了莎拉和凱莉逃脫的機會。"
             },
             {
                 "id": 3,
-                "movie": "Jurassic World: Fallen Kingdom",
-                "scene_description": "It is revealed that there are some surviving Brachiosaurus populations on Isla Nublar, but the species faces danger in the form of an impending erupting volcano.\n\nA Brachiosaurus is later seen walking down the ruins of Main Street, in front of Owen, Claire, Zia and others.\n\nA Brachiosaurus skeleton was seen near the radio tower's hatch.\n\nWhen Mt. Sibo erupts, the Brachiosaurs were among the dinosaurs stampeding from the eruption, facing many heavy casualties, most notably: as the boat Arcadia leaves Nublar to its fate, a Brachiosaurus, the same one seen by Grant and Sattler 25 years ago, is seen walking down the East Dock, crying out and standing on its hind legs as it is slowly engulfed by the toxic smoke and debris from the erupting volcano, letting out its final cries.\n\nDespite the massive casualties, the species' survival is confirmed by the Arcadia's manifest, and by J.A. Bayona himself, which shows that at least two adult Brachiosaurus had been captured and escaped the estate off-screen.\n\nSome of Mill's mercenaries managed to salvage its viable embryo, as seen during Malcolm's voiced over final testimony with the committee, implying that more Brachiosaurus may be engineered in the future."
+                "movie": "侏羅紀公園 III",
+                "scene_description": "電影開始時，格蘭特博士和他的同事比利討論迅猛龍的交流智慧。比利使用3D印表機複製了迅猛龍的喉嚨。當格蘭特博士和這群人被困在島上時，他的同事比利在其他人不知情的情況下偷了兩顆迅猛龍蛋。當倖存者到達廢棄的實驗室時，一隻迅猛龍偷偷進入並攻擊了亞曼達·柯比。這群人跑到籠子裡並困住了其中一隻。我們看到了牠的交流能力，當牠實際上呼叫其他迅猛龍來幫助時。倖存者跑過一群副櫛龍和副龍櫛龍，進入森林。亞曼達、保羅和比利躲在樹上，而格蘭特博士仍在地面上。迅猛龍傷害了烏德斯基並設置了陷阱來引誘其他人從樹上下來。亞曼達·柯比差點從樹上掉下來，但被救了，格蘭特博士被一隻迅猛龍對峙。埃里克·柯比來救他，噴灑了氣罐，迅猛龍逃跑了。\n\n然後我們在電影高潮時看到迅猛龍，當倖存者正在返回海灘的路上。迅猛龍包圍了這群人，雌性迅猛龍向亞曼達·柯比索要比利之前偷的蛋。她交出了蛋，格蘭特博士使用模仿的迅猛龍喉嚨來愚弄迅猛龍讓牠們跑開。倖存者然後逃離了島嶼。"
             },
             {
                 "id": 4,
-                "movie": "Jurassic World: Dominion",
-                "scene_description": "By 2022, the Department of Prehistoric Wildlife recorded Brachiosaurus sightings at Cape Town, South Africa, Rovaniemi, Finland, and Rod, Amaral Peixoto, Brazil.\n\nSome time between 2018 and 2022, some Brachiosaurus were housed at the Biosyn Valley where they coexisted with several other species which resided in the valley. When the giant locusts, which were set on fire by Lewis Dodgson in an effort to cover up his misdeeds, escaped and set the forest ablaze, Brachiosaurus was among the animals that were evacuated to Biosyn's emergency containment zone. They are last seen when two individuals bathe and search for aquatic vegetation in a lake in the incident's aftermath. It is assumed the Brachiosaurus still reside in the valley, which has now been repurposed into a preserve by the UN."
+                "movie": "侏羅紀世界",
+                "scene_description": "在侏羅紀世界中，一群迅猛龍各自有自己的名字：布魯、查理、德爾塔和艾柯，由歐文·格雷迪訓練。這些迅猛龍各自有獨特的個性和皮膚顏色，甚至頭部解剖結構也不同。複製恐龍的公司英根公司想要將迅猛龍用於軍事用途。這也是迅猛龍第一次與人類建立個人聯繫。\n\n維克·霍斯金斯說服了IBRIS項目的訓練師利用迅猛龍來追捕逃脫的帝王暴龍。但迅猛龍開始攻擊人類，因為帝王暴龍有迅猛龍的DNA並成為了牠們的首領。在混亂中，查理被火箭發射器炸成碎片。德爾塔和艾柯然後試圖在他們的貨車中吃掉克萊爾·迪林、格雷和扎克·米切爾。稍後，德爾塔突然意外地出現在哈蒙德創造實驗室，在歐文、克萊爾、霍斯金斯和男孩們面前。在迅猛龍殺死了霍斯金斯後，他們被迫逃跑，霍斯金斯試圖通過模仿歐文的手勢來安撫她，但失敗了。殺死霍斯金斯後，德爾塔繼續追捕歐文、克萊爾和男孩們，直到被格雷啟動的雙冠龍全息圖分散注意力，但在意識到那不是真的後繼續追捕。\n\n很快發現布魯將人類引入了陷阱。就在他們困住人類時，帝王暴龍走進了視野。然而，當歐文取下布魯頭上的攝影機時，迅猛龍轉而對抗帝王暴龍，意識到混血種只是在利用牠們。當牠們在歐文的幫助下重新對抗帝王暴龍時，布魯被擊昏，而其他迅猛龍被壓制。後來，布魯恢復意識並重新加入戰鬥，撲向混血種，讓來自原始侏羅紀公園的侏羅紀世界霸王龍重新站起來，在她缺席時加入戰鬥，之前被帝王暴龍推倒在地。布魯幫助霸王龍攻擊帝王暴龍。突然，滄龍將帝王暴龍拖入湖底。戰鬥結束後，霸王龍決定饒過布魯，很可能是因為帝王暴龍已經造成了大量傷害。布魯然後轉向歐文，短暫地對他發出啁啾聲，然後消失在夜色中。"
+            },
+            {
+                "id": 5,
+                "movie": "侏羅紀世界: 殞落國度",
+                "scene_description": "藍色迅猛龍在電影侏羅紀世界：殞落國度中回歸，使她成為第一個回歸的迅猛龍角色。在電影開始時，顯示歐文·格雷迪在電腦上觀看他和她的群體幼體時的訓練影片。故事早期，揭示了布魯仍然活著，但她和許多其他生物的生命正受到即將爆發的錫博山威脅。他們決定嘗試拯救任務來救布魯，最後倖存的迅猛龍。\n\n在救援任務期間，布魯與歐文重聚，當她從後面大聲尖叫驚嚇他時，棲息在受損的侏羅紀公園福特旅遊車頂上，艾倫·格蘭特曾從那裡救出提姆·墨菲，作為問候。當她慢慢接近他時，她開始將鼻子貼在他的手掌上，記住了他，然後隨著肯·惠特利和一隊雇傭兵試圖通過麻醉她來捕獲布魯，她猛地將頭拉開並發出尖銳的叫聲。歐文警告他們退後，在他們拒絕等待他的信號來麻醉她之後，直到布魯攻擊其中一名附近的士兵，這導致她的臀部被射中。她發出痛苦的哀嚎，然後側身倒下。\n\n一旦歐文被惠特利麻醉後，齊雅·羅德里格斯匆忙救援她，告訴雇傭兵她是唯一能讓布魯活下來的人。她和布魯隨後被俘虜，並被帶到東碼頭，惠特利和其他動物販賣者在那裡捕獲了其他恐龍，準備將牠們運回大陸給伊萊·米爾斯和亨利·吳。\n\n在軍用貨車的後部，齊雅和布魯與歐文、克萊爾和富蘭克林重聚，揭示布魯正在出血，需要從有兩根或三根手指的肉食動物那裡輸血才能活下來。歐文和克萊爾最終帶回了霸王龍的血液，隨後救了她的命。\n\n大約同時，梅西·洛克伍德觀看了一段訓練影片，其中布魯作為幼體，對歐文表現出同情和同理心，而他在她面前假裝表現出虛弱的跡象。\n\n在帝王迅猛龍逃脫後，亨利·吳讓富蘭克林偽裝成遺傳學家，為他取得設備，從布魯身上取血樣本，創造新一批帝王迅猛龍，這些將成為她的孩子。然而，計劃適得其反，因為齊雅告訴他布魯的血液與霸王龍的血液混合了，富蘭克林用麻醉劑刺中了他的脖子。兩名ACU部隊試圖制服他們，在齊雅釋放布魯之前，布魯撕咬了他們兩個，然後從實驗室逃脫，實驗室因其中一名士兵的子彈擊中了一個裝滿易燃有毒氣體的槽而爆炸起火。\n\n布魯在洛克伍德莊園內樓上，當她看到帝王迅猛龍準備攻擊歐文時，在梅西的臥室裡攻擊了帝王迅猛龍。兩隻恐龍短暫戰鬥，然後牠們都從窗戶掉下來，布魯朝另一個方向掉落，而帝王迅猛龍繼續追趕歐文和梅西。\n\n布魯然後從屋頂後面伏擊帝王迅猛龍，撲向牠。增加的重量使牠們穿過天窗掉落，落在三角龍頭骨上，刺穿並殺死了帝王迅猛龍。發出勝利的尖叫後，布魯跳下來跑開了。\n\n在梅西釋放了來自努布拉島的恐龍進入野外後，布魯被歐文接近，他告訴她他可以帶她到一個她會安全的保護區。然而，布魯最終跑開了，短暫停下來回頭看歐文，對他發出溫和的聲音，然後跑進了清晨。\n\n在電影結尾，顯示布魯俯視著遠處的加州郊區社區，她發出呼喚聲。"
+            },
+            {
+                "id": 6,
+                "movie": "侏羅紀世界: 統霸天下",
+                "scene_description": "在2018年恐龍爆發後的四年中，布魯已經在內華達山脈定居，並通過無性繁殖生下了一個名為貝塔的女兒，這是由於在布魯創造中使用的巨蜥DNA。布魯的巢穴位於歐文·格雷迪與克萊爾·迪林和梅西·洛克伍德居住地附近的一輛舊公車中，雖然人類似乎不知道布魯住在附近，但她被看到從遠處觀察他們。布魯試圖與女兒一起獵捕兔子，但小哺乳動物被一隻獨狼殺死。迅猛龍然後攻擊並殺死了狼，而牠們的咆哮聲可以在歐文家附近聽到。\n\n在侏羅紀世界：統霸天下的加長版中，有一個場景，在貝塔殺死狼後，她立即被幾個獵人盯上，導致布魯衝向並殺死了他們。\n\n有一天，貝塔走到歐文的財產上，梅西試圖與她交朋友，然後一隻激動的布魯出現，對她女兒或梅西的行為都不太高興。歐文設法安撫了他的老朋友，她和貝塔跑進了樹林。然而，布魯和貝塔被由雷恩·德拉庫爾領導的偷獵者伏擊，他們綁架了梅西和貝塔，並將布魯趕下了路。因為女兒被綁架而憤怒，布魯回到歐文家，他意識到她在激動狀態下可能會殺死他們，布魯甚至打掉了他伸出的手，留下了疤痕。儘管如此，歐文再次設法安撫了布魯，並承諾他的朋友會把布魯的女兒帶回給她，然後布魯再次跑開了。\n\n貝塔然後通過馬爾他的轉運飛機轉移到白堊山脈的百奧辛總部，在那裡她被路易斯·道森關在亨利·吳的實驗室中。當梅西詢問為什麼她被帶到百奧辛時，她得知為了理解用來拯救梅西免受她母親死於同樣遺傳疾病的病原體，他們需要檢查她和貝塔，吳打算用它來殺死道森讓他創造的基因改造巨型蝗蟲，以摧毀不是由百奧辛製造的作物。得知這一點後，梅西釋放了貝塔，她造成了破壞並打翻了實驗室設備，然後逃到實驗室的伺服器室。\n\n貝塔在此期間一直躲藏，以及道森試圖燒毀蝗蟲並銷毀他罪行證據的混亂，這引起了森林火災和那裡保護區工作人員和恐龍的疏散，直到歐文、梅西和艾倫·格蘭特來找她。激動不安和害怕的貝塔試圖攻擊他們，但梅西利用歐文的訓練，使用她養父的技術來保持貝塔的注意力，在艾倫的幫助下，直到歐文麻醉了她。然後他們抬出了昏迷的貝塔，綁在歐文的背上，她一直保持這樣直到他們乘坐直升機逃離百奧辛。\n\n在悔恨的吳博士取了貝塔的血液和梅西的血液樣本來阻止蝗蟲後，歐文、克萊爾和梅西將貝塔送回給布魯。與母親重聚後，她跑進荒野，布魯向歐文告別，然後加入她的女兒，兩人終於自由了。"
+            }
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Velociraptor"
+    },
+    {
+        "id": 2,
+        "name": "雷龍",
+        "type": "land",
+        "latitude": 41.1403,
+        "longitude": -104.8202,
+        "movies": [
+            "侏羅紀公園",
+            "侏羅紀公園 III",
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
+        ],
+        "movie_scenes": [
+            {
+                "id": 1,
+                "movie": "侏羅紀公園",
+                "scene_description": "雷龍是英根公司雇用的認證團隊遇到的第一隻恐龍，他們要確保侏羅紀公園對遊客是安全的。整個團隊都感到驚訝。艾倫·格蘭特博士和埃利·薩特勒博士是最敬畏的，因為雷龍是陸生的，而不是他們認為的半水生沼澤居住者。\n\n當丹尼斯·奈德里關閉侏羅紀公園的安全系統時，阻止史前動物逃出圍欄的安全圍欄也被關閉了，雷龍是能夠自由漫遊的恐龍之一。\n\n從霸王龍圍欄逃脫後，艾倫·格蘭特博士、提姆和萊克斯·墨菲爬上一棵樹，在那裡看到一群雷龍在附近的樹上覓食，在遠處嗥叫。艾倫·格蘭特博士聽到了牠們的叫聲，並試圖模仿牠們，取得了成功。第二天早上，一隻患有感冒或類似疾病的雷龍在三個人類睡覺的樹上覓食，把他們吵醒了。萊克斯起初看到恐龍時驚慌失措，認為牠是危險的，但當艾倫·格蘭特博士和她的兄弟向她展示牠是無害的時，她很快就冷靜下來。格蘭特博士給雷龍餵了樹上附近的樹枝，提姆·墨菲甚至撫摸了牠。然而，當萊克斯試圖像她兄弟那樣撫摸恐龍時，雷龍回應是對她打噴嚏。人類和雷龍後來分道揚鑣。\n\n1993年伊斯拉努布拉島事件後，努布拉島上的雷龍族群發生了什麼尚不清楚。\n\n然而，根據英根報告透露的信息，到1994年10月，島上至少有5隻雷龍倖存。一隻因營養不良而死亡。"
+            },
+            {
+                "id": 2,
+                "movie": "侏羅紀公園 III",
+                "scene_description": "N622DC飛機的乘客在2001年伊斯拉索納島事件開始時飛越伊斯拉索納島時看到了一群雷龍。\n\n艾倫·格蘭特博士和柯比家族在河岸邊又看到了另一群。"
+            },
+            {
+                "id": 3,
+                "movie": "侏羅紀世界: 殞落國度",
+                "scene_description": "揭示努布拉島上有一些倖存的雷龍族群，但該物種面臨即將爆發的火山威脅。\n\n後來看到一隻雷龍走在主街廢墟中，在歐文、克萊爾、齊雅和其他人面前。\n\n在無線電塔艙口附近看到了雷龍骨架。\n\n當錫博山爆發時，雷龍是從爆發中逃跑的恐龍之一，面臨許多重大傷亡，最顯著的是：當阿卡迪亞號船離開努布拉島面對其命運時，一隻雷龍，25年前格蘭特和薩特勒看到的同一隻，被看到走在東碼頭，哭泣並用後腿站立，慢慢被爆發火山的有毒煙霧和碎片吞沒，發出最後的哭聲。\n\n儘管傷亡慘重，阿卡迪亞號的清單和J.A.巴約納本人證實了該物種的生存，顯示至少有兩隻成年雷龍被捕獲並在幕後逃脫了莊園。\n\n米爾斯的一些雇傭兵設法搶救了其可行的胚胎，正如馬爾康向委員會的最終證詞中的配音所見，暗示未來可能會培育更多的雷龍。"
+            },
+            {
+                "id": 4,
+                "movie": "侏羅紀世界: 統霸天下",
+                "scene_description": "到2022年，史前野生動物部門記錄了雷龍在南非開普敦、芬蘭羅瓦涅米和巴西羅德阿馬拉爾佩紹托的目擊報告。\n\n在2018年到2022年之間的某個時候，一些雷龍被安置在百奧辛山谷，在那裡牠們與居住在山谷中的其他幾個物種共存。當路易斯·道森為了掩蓋他的不當行為而點燃的巨型蝗蟲逃脫並引發森林大火時，雷龍是被疏散到百奧辛緊急圍欄區的動物之一。在事件後，牠們最後被看到時，兩個個體在湖中洗澡和尋找水生植被。假設雷龍仍然居住在山谷中，該山谷現在已被聯合國重新改造為保護區。"
             }
         ],
         "link": "https://jurassicpark.fandom.com/wiki/Brachiosaurus"
     },
-	{
-		"id": 3,
-		"name": "Tyrannosaurus Rex",
-		"type": "land",
+    {
+        "id": 3,
+        "name": "霸王龍",
+        "type": "land",
         "latitude": 36.1129,
         "longitude": -115.1765,
-		"movies": [
-			"Jurassic Park",
-			"The Lost World: Jurassic Park",
-			"Jurassic Park III",
-			"Jurassic World",
-			"Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
-		],
-		"movie_scenes": [
-			{
+        "movies": [
+            "侏羅紀公園",
+            "失落的世界: 侏羅紀公園",
+            "侏羅紀公園 III",
+            "侏羅紀世界",
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
+        ],
+        "movie_scenes": [
+            {
                 "id": 1,
-				"movie": "Jurassic Park",
-				"scene_description": "When the inspection team constituting of vertebrate paleontologist Dr. Alan Grant, paleobotanist Dr. Ellie Sattler, chaotician Dr. Ian Malcolm, lawyer Donald Gennaro, and John Hammond's grandchildren Lex and Tim Murphy took a tour of Jurassic Park, initially the Tyrannosaurus was a no-show. Although computer technician Ray Arnold attempted to lure her to her paddock fence by tantalizing her with a goat, the T. rex still refused to answer the call. Alan, observing this, surmised that it was because she wanted to hunt her prey rather than have it offered to her.\n\nLater that night, a tropical storm forced the tour to be turned around sometime after the group visited the Triceratops Paddock. During this time Dennis Nedry shut down all electricity to the park, causing the Ford Explorer Tour Vehicles to shut down in front of the T. rex's paddock with its electrified fencing in the same state. At this point, the T. rex revealed herself to the visitors by eating the goat left by the fence as bait, hunger probably having eclipsing her pride, and then touching the electric fence to see if her enclosure was still electrified. Gennaro, seeing that the fence was disabled left his Explorer and ran to the nearby restroom hut to hide. By that point, the T. rex moved to the disabled fence and ripped it apart with her teeth before stepping out onto the road and roaring triumphantly. After exploring and investigating the Explorers, her attention was caught by the light that was emitted from a flashlight that Lex had turned on in the front Explorer. Unaware that the source of the light was inside the Explorer, she walked right to the front door and peered out into the jungle in front of the Explorer. It was not until Tim slammed the open door next to the T. rex shut that she discovered the source of the light.\n\nNow confident that the light was coming from inside the Explorer and that there were interesting objects inside, the T. rex set to attacking the mysterious vehicle in front of her, searching for a way to get at Lex and Tim to eat them. After failing to get at them through the Explorer's skylight, she flipped the car over and proceeded to savage the undercarriage and right rear tire whilst crushing it under her massive foot. Thanks to the heroic efforts of Alan and Ian, the T. rex was briefly distracted. She followed Ian as he fled toward the Tyrannosaur Paddock Bathroom, where she injured the mathematician by flinging him into the air just as her head came crashing through the door, causing Ian to be buried in the wreckage as the shelter collapsed. The destruction of the building revealed the cowering Gennaro, whom she proceeded to devour while Alan rescued the kids inside the car. Before long, however, the T. rex returned and pushed the vehicle over the cliff while Tim was still inside and pushing Lex and Alan off the edge with the car, though the three survived.\n\nAs Robert Muldoon and Ellie were in the Tyrannosaur Paddock investigating the whereabouts of the survivors and had found Ian, the T. rex attacked the search party. Muldoon and Ellie had heard the T. rex roar several times before during the search and just before her ambush, Ian heard her footsteps. The T. rex attacked suddenly, without warning, crashing through a line of trees where she began chasing them through a tree lined corridor. After a very close chase, she was unsuccessful in catching them and so finally gave up, letting the trio escape to the Visitor Center.\n\nThe next day, during Alan, Tim, and Lex's continued trek to the Visitor Center, they found themselves in the Gallimimus Enclosure, where they witnessed a stampeding herd of Gallimimus. They ran alongside the dinosaurs momentarily before hiding behind a fallen log and watched as the herd was suddenly ambushed by the T. rex who came roaring out of the bushes in their path, stumbling a Gallimimus. This Gallimimus tried to run away, but was too slow to react, and the Tyrannosaur lunged at it, catching the dinosaur in her jaws before proceeding to shake the Gallimimus to death. Alan, Lex, and Tim watched in amazement as the T. rex started to feast on the carcass. Lex begged Alan for them to go, to which Alan obliged. However, Tim continued to stare in fascination and so had to be forcibly taken away by Alan. She never fully consumed this Gallimimus and its remains were still present in the location where it had died by October 6, 2002, almost a decade later.\n\nThe T. rex later made her way to the Visitor Center, entering the lobby through the uncompleted side and grabbed a Velociraptor from mid-air just as it was to pounce on Alan, Ellie, Tim, and Lex, then crushed it in her jaws. Using the distraction that she provided, the humans fled. Meanwhile, another raptor, the Big One pounced on the larger theropod. She snapped at her but could not reach her as the raptor continued to rip and tear madly. Rolling her head, the Big One fell into the T. rex's mouth where she was killed and then thrown against the Tyrannosaurus skeleton, bringing it down with a crash. Having conquered her prey, the T. rex let out a mighty bellow in triumph as the \"When Dinosaurs Ruled the Earth\" banner fell to the ground."
-			},
-			{
+                "movie": "侏羅紀公園",
+                "scene_description": "當由脊椎動物古生物學家艾倫·格蘭特博士、古植物學家埃利·薩特勒博士、混沌學家伊恩·馬爾康博士、律師唐納德·詹納羅和約翰·哈蒙德的孫子萊克斯和提姆·墨菲組成的視察團隊參觀侏羅紀公園時，霸王龍最初沒有出現。雖然電腦技術員雷·阿諾德試圖用一隻山羊來引誘她到圍欄柵欄前，但霸王龍仍然拒絕回應。艾倫觀察到這一點，推測這是因為她想獵捕獵物，而不是讓獵物被提供給她。\n\n那天晚上，熱帶風暴迫使旅遊團在拜訪三角龍圍欄後的某個時候掉頭。在此期間，丹尼斯·奈德里關閉了公園的所有電力，導致福特探索者旅遊車在霸王龍圍欄前停止運行，其電氣化圍欄也處於相同狀態。此時，霸王龍透過吃掉柵欄留下的山羊誘餌向遊客展示了自己，飢餓可能已經超越了她的驕傲，然後觸摸電圍欄，看看她的圍欄是否仍然通電。詹納羅看到圍欄已被禁用，離開了他的探索者，跑到附近的廁所小屋躲藏。到那時，霸王龍走到被禁用的圍欄前，用牙齒撕裂了它，然後踏上道路，勝利地咆哮。在探索和調查探索者後，她的注意力被萊克斯在前面探索者中打開的手電筒發出的光線吸引。不知道光源來自探索者內部，她直接走到前門，凝視著探索者前面的叢林。直到提姆將霸王龍旁邊的開門關上，她才發現光源。\n\n現在確信光線來自探索者內部，裡面有有趣的物體，霸王龍開始攻擊她面前的神秘車輛，尋找一種方法來獲得萊克斯和提姆並吃掉他們。在無法通過探索者的天窗接觸到他們後，她翻轉了汽車，並繼續在用巨大的腳踩踏它時破壞底盤和右後輪胎。由於艾倫和伊恩的英勇努力，霸王龍暫時分心。她跟著伊恩逃向霸王龍圍欄浴室，在那裡她將數學家拋向空中，就在她的頭撞破門時傷害了伊恩，導致伊恩被埋在庇護所倒塌的瓦礫中。建築物的破壞揭示了蜷縮的詹納羅，她在艾倫救出車內孩子時吞噬了他。然而不久，霸王龍回來了，在提姆仍在車內時將車輛推下懸崖，將萊克斯和艾倫與汽車一起推下邊緣，但三人都倖存了下來。\n\n當羅伯特·馬爾登和埃利在霸王龍圍欄中調查倖存者的下落並找到了伊恩時，霸王龍攻擊了搜索隊。馬爾登和埃利之前在搜索期間多次聽到霸王龍的咆哮，就在她伏擊之前，伊恩聽到了她的腳步聲。霸王龍突然攻擊，毫無預警，撞破一排樹木，開始通過樹木排列的走廊追趕他們。經過非常接近的追逐後，她未能抓住他們，所以最終放棄了，讓三人組逃到遊客中心。\n\n第二天，在艾倫、提姆和萊克斯繼續前往遊客中心的途中，他們發現自己在似雞龍圍欄中，在那裡他們目睹了似雞龍的蹂躪。他們短暫地與恐龍一起奔跑，然後躲在倒下的原木後面，看著獸群突然被從灌木叢中咆哮而出的霸王龍伏擊，絆倒了一隻似雞龍。這隻似雞龍試圖逃跑，但反應太慢，霸王龍撲向它，用下顎抓住恐龍，然後搖動似雞龍至死。艾倫、萊克斯和提姆驚訝地看著霸王龍開始享用屍體。萊克斯懇求艾倫讓他們離開，艾倫同意了。然而，提姆繼續著迷地凝視，所以不得不被艾倫強行帶走。她從未完全消費這隻似雞龍，其遺骸在2002年10月6日，幾乎十年後，仍然存在於它死亡的地點。\n\n霸王龍後來來到了遊客中心，通過未完成的一側進入大廳，就在迅猛龍要撲向艾倫、埃利、提姆和萊克斯時，從半空中抓住了迅猛龍，然後用下顎壓碎了它。利用她提供的分散注意力，人類逃跑了。與此同時，另一隻迅猛龍，大個子撲向了更大的獸腳類動物。她咬向她，但無法夠到她，因為迅猛龍繼續瘋狂地撕裂。轉動她的頭，大個子落入霸王龍的嘴中，在那裡她被殺死，然後被拋向霸王龍骨架，使其墜落並撞毀。征服了她的獵物後，霸王龍發出了勝利的強大吼聲，當恐龍統治地球的橫幅落到地上時。"
+            },
+            {
                 "id": 2,
-				"movie": "The Lost World: Jurassic Park",
-				"scene_description": "Like in the novel, there is a male and female Tyrannosaurus along with an infant in The Lost World. The male Tyrannosaurus is 18 feet tall and 40 feet long, the female is 19.5 feet tall and 43 feet long and the infant is 3 feet tall and 6 feet long. Roland tries to lure the male T-Rex out by trapping its infant. Sarah and Nick come across the injured infant and take it back to the trailer. Upon hearing its screams for help, both Tyrannosaurus turn up at the trailer. The group gives the infant back to its parents and both Tyrannosaurus try to push the trailer off the cliff. They disappear and Eddie saves Ian, Nick and Sarah but the two Tyrannosaurus return and kill Eddie.\n\nLater, the male Tyrannosaurus tracks Sarah to Roland’s camp due to the infant’s blood on her jacket. Everybody runs for their lives and a few manage to hide behind a waterfall. Several members of Roland’s team are trampled to death. Roland manages to tranquilize the creature and it’s transported to San Diego via the ship S.S. Venture. Somehow, the T-Rex breaks free and kills the entire crew. When the ship crashes into the dock in San Diego, Ludlow order the cargo hold be opened which free the creature. The Tyrannosaurus rampages through the city looking for food and water, finding a swimming pool and a dog in the process. It causes lots of damage in the city and kills a number of people.\n\nDr. Ian Malcolm and Sarah Harding steal the infant from a facility, which had been brought to San Diego separately. They use the infant to lure the Tyrannosaurus back to the ship and trap it in the cargo hold, just before tranquilizing it. The the creature is then transported back to Isla Sorna under heavy guard. It is shown together with the female Tyrannosaur and the infant."
-			},
-			{
+                "movie": "失落的世界: 侏羅紀公園",
+                "scene_description": "與小說一樣，失落的世界中有一隻雄性和雌性霸王龍以及一隻幼體。雄性霸王龍高18英尺，長40英尺，雌性高19.5英尺，長43英尺，幼體高3英尺，長6英尺。羅蘭試圖通過困住其幼體來引誘雄性霸王龍出來。莎拉和尼克遇到了受傷的幼體，並將其帶回拖車。聽到它的求救尖叫聲，兩隻霸王龍都出現在拖車前。這群人將幼體還給其父母，兩隻霸王龍試圖將拖車推下懸崖。他們消失了，埃迪救了伊恩、尼克和莎拉，但兩隻霸王龍回來了並殺死了埃迪。\n\n後來，雄性霸王龍由於幼體血液在莎拉夾克上的緣故追蹤莎拉到羅蘭的營地。每個人都為了生命而奔跑，一些人設法躲在瀑布後面。羅蘭團隊的幾名成員被踐踏致死。羅蘭設法麻醉了這隻生物，它通過S.S.Venture號船被運送到聖地牙哥。不知何故，霸王龍掙脫了，殺死了整個船員。當船在聖地牙哥撞向碼頭時，拉德羅命令打開貨艙，釋放了這隻生物。霸王龍在城市中橫衝直撞尋找食物和水，在過程中找到了一個游泳池和一隻狗。它在城市中造成了大量損害，殺死了許多人。\n\n伊恩·馬爾康博士和莎拉·哈丁從一個設施中偷走了幼體，該幼體是單獨帶到聖地牙哥的。他們使用幼體引誘霸王龍回到船上並將其困在貨艙中，就在麻醉它之前。然後這隻生物在重兵保護下被運回伊斯拉索納島。它與雌性霸王龍和幼體一起展示。"
+            },
+            {
                 "id": 3,
-				"movie": "Jurassic Park III",
-				"scene_description": "A young adult Tyrannosaurus appears in Jurassic Park 3. According to the official size charts, it is 37 feet long and 14.5 feet tall. When Alan Grant and the other survivors escape the Spinosaurus, they encounter the creature who is just feeding on another dinosaur. The group runs back towards the Spinosaurus and a huge battle occurs between the Tyrannosaurus and the Spinosaurus. The Spinosaurus kills the T-Rex by snapping its neck in its powerful jaws."
-			},
-			{
+                "movie": "侏羅紀公園 III",
+                "scene_description": "一隻年輕的成年霸王龍出現在侏羅紀公園3中。根據官方尺寸圖表，它長37英尺，高14.5英尺。當艾倫·格蘭特和其他倖存者逃離棘龍時，他們遇到了正在以另一隻恐龍為食的生物。這群人跑回棘龍方向，棘龍和霸王龍之間發生了巨大的戰鬥。棘龍通過用其強大的下顎咬斷霸王龍的脖子來殺死霸王龍。"
+            },
+            {
                 "id": 4,
-				"movie": "Jurassic World",
-				"scene_description": "The T-rex mainly stayed in her paddock for most of the incident until Claire Dearing told Lowery Cruthers to open her enclosure's door and let her out after Claire's nephew Gray Mitchell told her that another dinosaur was needed to help kill the Indominus rex. Using a flare, Claire guided the T. rex to the Indominus and threw the flare at the hybrid. Crashing through Main Street's mounted Spinosaurus skeleton, the Tyrannosaurus challenged the I-rex with an almighty bellow, not knowing exactly what this new creature was but identifying it as a threat. When the hybrid did not back down, the T-rex attacked her viciously.\n\nInitially, the Tyrannosaurus had the advantage, landing several bites to the I. rex's neck, but the elder dinosaur was fighting from a territorial standpoint whilst the hybrid was aiming to kill and the tables were quickly turned, with the T-rex thrown down against the Jurassic Traders Outpost, destroying it in the process and almost killing Owen Grady, Gray, and Zach Mitchell.\n\nHowever, before the Indominus could kill her, Blue, the surviving Velociraptor of the battle, intervened by lunging onto the I. rex, giving the T. rex time to get up off the ground, now fighting to kill. With Blue latched onto the hybrid, the old T. rex grabbed the Indominus dragging her and slamming her body into the nearby buildings of Main Street. At one point, Blue rode on the tyrannosaur's back while she smashed the I. rex into one of the buildings. She finally flung the hybrid near the edge of the Jurassic World Lagoon where the Mosasaurus that resided there leaped out of the water to snatch the I-rex and drag it underwater, drowning the hybrid. After the fight, the T. rex and Blue looked at each other for a brief moment. Despite a previous animosity and hostile encounter with raptors, the T-rex decided to spare Blue either because she is too injured and exhausted, or because she doesn't see her as a threat. Either way, the old Tyrannosaurus limps away to recover from the injuries she sustained from the fight.\n\nIn the aftermath of the incident, the T-rex stomped onto the Control Center helipad and took in the ruined park that had become void of any people, warming her wounds in the rising sun before letting out her signature roar, claiming the island as hers once again."
-			},
-			{
+                "movie": "侏羅紀世界",
+                "scene_description": "霸王龍大部分時間都待在她的圍欄中，直到克萊爾·迪林告訴洛瑞·克拉瑟斯打開她圍欄的門並讓她出來，在克萊爾的侄子格雷·米切爾告訴她需要另一隻恐龍來幫助殺死帝王暴龍之後。使用信號彈，克萊爾引導霸王龍到帝王暴龍那裡，並將信號彈扔向混血種。撞破主街的棘龍骨架，霸王龍用強大的吼聲挑戰帝王暴龍，不知道這個新生物是什麼，但將其識別為威脅。當混血種沒有退縮時，霸王龍惡毒地攻擊她。\n\n最初，霸王龍佔優勢，對帝王暴龍的脖子進行了幾次咬擊，但年長的恐龍是從領土角度戰鬥，而混血種的目標是殺死，局面很快逆轉，霸王龍被撞向侏羅紀商人前哨，在過程中摧毀了它，幾乎殺死了歐文·格雷迪、格雷和扎克·米切爾。\n\n然而，在帝王暴龍能夠殺死她之前，戰鬥中倖存的迅猛龍布魯通過撲向帝王暴龍進行干預，給霸王龍時間從地上起來，現在戰鬥是為了殺死。布魯抓住混血種，老霸王龍抓住帝王暴龍，將她拖拽並將她的身體撞向主街附近的建築物。有一次，布魯騎在霸王龍背上，而她將帝王暴龍撞向其中一座建築物。她最終將混血種拋到侏羅紀世界湖邊，那裡居住的滄龍從水中躍出抓住帝王暴龍並將其拖到水下，淹死了混血種。戰鬥結束後，霸王龍和布魯短暫地看著對方。儘管之前與迅猛龍有敵意和敵對遭遇，霸王龍決定饒過布魯，要麼是因為她太受傷和疲憊，要麼是因為她不認為她是威脅。無論如何，老霸王龍一瘸一拐地離開，從戰鬥中受到的傷勢中恢復。\n\n事件後，霸王龍踩上控制中心直升機停機坪，接受了已經空無一人的毀壞公園，在升起的太陽中溫暖她的傷口，然後發出她標誌性的咆哮，再次聲稱島嶼是她的。"
+            },
+            {
                 "id": 5,
-				"movie": "Jurassic World: Fallen Kingdom",
-				"scene_description": "6 months after the incident at Jurassic World, the T. rex continued to run wild on the island with other surviving dinosaurs. One stormy night, a group of mercenaries was on Isla Nublar to retrieve a bone sample from the I. rex's remains at the bottom of the park's lagoon, which also still housed its surviving Mosasaurus. As they prepared to pick up one of their men, the T. rex entered their campsite located in the ruins of Main Street and proceeded to chase him, stepping on the tablet that controlled the gate which connected the lagoon to the ocean in the process. The T. rex chased the man towards the edge of the lagoon, but he got away by climbing onto the helicopter's ladder. Despite grabbing the ladder with her jaws and using her strength to pull her potential prey to her, the mercenaries got away, and the T. rex was left roaring into the night. The tablet that she stepped on prevented the doors of the lagoon from closing completely, allowing the Mosasaurus to escape into the open ocean.\n\nDuring the destruction of the island by the eruption of Mount Sibo, Owen and his group encountered her again, after she had inadvertently saved them from an attacking Carnotaurus, fatally subduing the meat-eating bull. She later left the dead Carnotaurus behind as the volcano erupted, with the shockwave from the eruption prompting her to flee the scene, followed by the other dinosaurs that caused a stampede. After Owen helped Claire and Franklin escape their sinking Gyrosphere and reached the shore, they spotted a helicopter carrying her thanks to the efforts of another team of mercenaries led by Ken Wheatley, proving that Eli Mills' claim of saving the dinosaurs was partially true. She and the other dinosaurs were loaded on to their cargo ship, the Arcadia, and took them to the Lockwood Manor as Isla Nublar burned.\n\nSometime later on, Owen and Claire found her sedated in a truck, where they needed to get some of her blood for transfusion for Blue, who had been shot awhile back by one of Wheatley's mercenaries. As they got some of her blood, Claire rode on the theropod’s back while trying to hand the blood bag to Owen. After being locked in by one of the mercenaries, Owen looked into the tyrannosaur's eye as she awoke from her sedation. Finding herself in an enclosed space with people around her, the mighty theropod started to freak out and broke free of her restraints, with Owen being forced to jump through her snapping jaws to get out of the truck.\n\nLater, the T. rex was lured to her cell located beneath the Lockwood estate with a goat in order have her prepared to be sold off to wealthy buyers in an auction set up by Eli Mills and Gunnar Eversol. However, some poisonous gas was released into the holding cell during Blue's brawl with some mercenaries, threatening to kill the dinosaurs yet again. The T. rex was eventually freed along with the other dinosaurs through Claire opening all the cell doors and Maisie, who had just lost her grandfather and learned of her true origin, opening the gate that set them all free and allowing the T.rex to escape the manor. Before she left the premises, however, the T. rex caught and ate Mills after, scaring off a lone Carnotaurus that had tried to join the feast. Finishing off what little remained of Mills, the T. rex then brought one of her massive feet down on the I. rex's only surviving bone fragment and DNA sample as she stomped off into the woods, crushing it to smithereens and with it any chance of other hybrids like her returning. After she escaped, the T. rex broke into a nearby zoo and roared at an male lion, who stood his ground by angrily roaring back at her"
-			},
+                "movie": "侏羅紀世界: 殞落國度",
+                "scene_description": "侏羅紀世界事件6個月後，霸王龍繼續與其他倖存的恐龍在島上橫行。一個暴風雨夜晚，一群雇傭兵在伊斯拉努布拉島取回公園湖底帝王暴龍遺骸的骨樣本，湖中仍然居住著倖存的滄龍。當他們準備接走其中一名成員時，霸王龍進入了他們位於主街廢墟中的營地，開始追趕他，在過程中踩中了控制連接湖泊和海洋的閘門的平板電腦。霸王龍將他追到湖邊，但他通過爬上直升機的梯子逃脫了。儘管用下顎抓住梯子並用她的力量將她的潛在獵物拉向她，雇傭兵們還是逃脫了，霸王龍被留下對著夜晚咆哮。她踩中的平板電腦阻止了湖泊的門完全關閉，允許滄龍逃到開放海洋。\n\n在錫博山爆發摧毀島嶼期間，歐文和他的小組再次遇到了她，在她無意中從攻擊的肉牛龍那裡救了他們，致命地制服了食肉公牛之後。她後來留下了死去的肉牛龍，當火山爆發時，爆發的衝擊波促使她與其他造成踩踏的恐龍一起逃離現場。在歐文幫助克萊爾和富蘭克林逃脫他們下沉的回轉球並到達岸邊後，他們發現一架直升機正在搬運她，這要歸功於肯·惠特利領導的另一個雇傭兵團隊的努力，證明了伊萊·米爾斯拯救恐龍的聲明部分屬實。她和其他恐龍被裝載到他們的貨船阿卡迪亞號上，並帶他們到洛克伍德莊園，因為伊斯拉努布拉島燃燒。\n\n後來，歐文和克萊爾在卡車中發現她被鎮靜，他們需要一些她的血液為布魯輸血，布魯之前被惠特利的一名雇傭兵射中。當他們取一些她的血液時，克萊爾騎在獸腳類恐龍的背上，試圖將血袋遞給歐文。被其中一名雇傭兵鎖住後，歐文看著霸王龍的眼睛，她從鎮靜中醒來。發現自己在一個封閉的空間中，周圍有人，強大的獸腳類動物開始發狂並掙脫了束縛，歐文被迫跳過她咬合的下顎來逃出卡車。\n\n後來，霸王龍被一隻山羊引誘到位於洛克伍德莊園下方的牢房中，以便為伊萊·米爾斯和岡納·埃弗索爾建立的拍賣準備出售。然而，在布魯與一些雇傭兵的爭鬥中，一些有毒氣體被釋放到牢房中，再次威脅殺死恐龍。霸王龍最終與其他恐龍一起通過克萊爾打開所有牢房門和梅西被釋放，梅西剛剛失去了她的祖父並了解了她的真實身世，打開了釋放他們所有的門，允許霸王龍逃脫莊園。然而，在她離開房地產之前，霸王龍在嚇跑了一隻試圖加入盛宴的獨角龍後，抓住並吃掉了米爾斯。吃完米爾斯剩下的東西後，霸王龍然後將她的一隻巨大的腳踩在帝王暴龍唯一倖存的骨片段和DNA樣本上，當她踩進樹林時將其壓碎，粉碎了它，隨之粉碎了像她這樣的其他混血種回歸的任何機會。逃脫後，霸王龍闖入附近的動物園，對一隻雄獅咆哮，雄獅通過憤怒地咆哮回應她而堅持立場。"
+            },
             {
                 "id": 6,
-                "movie": "Jurassic World: Dominion",
-                "scene_description": "In a 65 million years ago prequel scene, during the Late Cretaceous period, a feathered Tyrannosaurus fought a Giganotosaurus, but was swiftly killed in the battle. Immediately after its death, a mosquito fed off the body's blood, which would later be used in InGen's cloning of the species.\n\nBy 2022, the Department of Prehistoric Wildlife had reports of the Nublar T. rex in Sacramento, California, footage of a failed hunt on a Apatosaurus in Lake of the Woods, Oregon and tracks of the Tyrannosaur in the Prairie Creek Redwoods, also in California. Later that year, the Department of Fish and Wildlife attempted to hunt down the dinosaur by helicopter, and accidentally chased her into the SkyLine Drive-In Movie Theater. After both parties damaged multiple cars and the theater itself, the Tyrannosaurus escaped into the woods.\n\nAfter three years being chased by the DFW, Rexy was finally captured and taken to Biosyn's sanctuary in Italy. While scavenging a deer carcass that met its end at the claws of a Therizinosaurus, she encounters the clone of her old rival that was killed 65 million years ago, a Giganotosaurus. The pair had a brief tussle over the carcass until the Tyrannosaurus backed off, allowing the Giganotosaurus to feed on the carcass.\n\nLater that night, a swarm of giant locusts that was set on fire by Lewis Dodgson in an attempt to erase his criminal activity escaped their containment and started a forest fire within the valley. As the fire worsened, Biosyn used the chips they implanted in their animals to call them into the center of the Biosyn Research Facility. As it moved through the area, the T. rex came upon the Giganotosaurus and challenged it once more, and the two began battling. Rexy was knocked unconscious by the Giganotosaurus (almost the same way her ancestor lost to the same species 65 million years ago) after a ferocious melee that nearly crushed the humans, and her limp body, held underfoot by the larger animal, had pinned a sheet of metal on top of Owen, Claire, Maisie, and Ramsay and was about to crush them.\n\nEllie saw this and attempted to help them, but the Giganotosaurus roared at her when she attempted to approach and prepared to attack. Kayla then shot a flare to distract the large theropod, which landed beside a newcomer; the Therizinosaurus. The two dinosaurs fought each other, with the aggressive herbivore landing effective slashing blows on the larger theropod until Rexy regained consciousness. Now finding itself cornered, the Giganotosaurus was unable to determine quickly enough which enemy was the greater threat, which allowed the Tyrannosaurus to bite its neck and ram it into the claws of the Therizinosaurus, impaling the predator in the neck and body before it eventually died seconds after it dropped to the ground.\n\nAbout a month later, Rexy encounters the Buck and Doe from Isla Sorna in Biosyn valley, which has now declared a dinosaur sanctuary by the United Nations."
+                "movie": "侏羅紀世界: 統霸天下",
+                "scene_description": "在6500萬年前的前傳場景中，在白堊紀晚期，一隻有羽毛的霸王龍與南方巨獸龍戰鬥，但在戰鬥中很快被殺死。死亡後立即，一隻蚊子以屍體的血液為食，後來被用於英根公司的物種複製。\n\n到2022年，史前野生動物部門有努布拉霸王龍在加州薩克拉門托的報告，在俄勒岡州森林湖對梁龍進行失敗狩獵的錄像，以及在同樣在加州的草原溪紅杉中的霸王龍軌跡。那年晚些時候，魚類和野生動物部門試圖用直升機獵殺恐龍，意外地將她追到SkyLine汽車電影院。在雙方損壞了多輛汽車和劇院本身後，霸王龍逃進了樹林。\n\n在被DFW追捕三年後，雷克西終於被捕獲並帶到義大利的百奧辛保護區。在清理一具在爪獸龍爪下死亡的鹿屍體時，她遇到了她在6500萬年前被殺死的老對手的複製品，南方巨獸龍。這對恐龍在屍體上進行了短暫的爭鬥，直到霸王龍退縮，允許南方巨獸龍以屍體為食。\n\n那天晚上，路易斯·道森為了消除他的犯罪活動而點燃的一群巨型蝗蟲逃脫了它們的圍欄，並在山谷內引發了森林火災。隨著火勢惡化，百奧辛使用他們植入動物體內的晶片將它們召喚到百奧辛研究設施的中心。當它穿過該地區時，霸王龍遇到了南方巨獸龍並再次挑戰它，兩隻恐龍開始戰鬥。雷克西在激烈的混戰中被南方巨獸龍擊昏（幾乎與她的祖先在6500萬年前輸給同一物種的方式相同），該混戰幾乎壓碎了人類，她的無力身體被更大的動物踩在腳下，將一塊金屬板釘在歐文、克萊爾、梅西和拉姆齊上方，即將壓碎他們。\n\n埃利看到了這一點並試圖幫助他們，但當她試圖接近時，南方巨獸龍對她咆哮並準備攻擊。凱拉然後射出信號彈來分散大型獸腳類動物的注意力，信號彈落在新來者旁邊；爪獸龍。兩隻恐龍互相戰鬥，激進的草食動物對較大的獸腳類動物進行有效的砍擊，直到雷克西恢復意識。現在發現自己被包圍，南方巨獸龍無法足夠快地確定哪個敵人是更大的威脅，這允許霸王龍咬住它的脖子並將其撞向爪獸龍的爪子，在它最終在掉到地上幾秒鐘後死亡之前，將捕食者刺穿脖子和身體。\n\n大約一個月後，雷克西在百奧辛山谷遇到了來自伊斯拉索納島的公牛和母牛，該山谷現在已被聯合國宣布為恐龍保護區。"
             }
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Tyrannosaurus_rex"
-	},
-	{
-		"id": 4,
-		"name": "Dilophosaurus",
-		"type": "land",
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Tyrannosaurus_rex"
+    },
+    {
+        "id": 4,
+        "name": "雙冠龍",
+        "type": "land",
         "latitude": 35.0875713,
         "longitude": -106.6656291,
-		"movies": [
-			"Jurassic Park",
-            "Jurassic World: Dominion"
-		],
-		"movie_scenes": [
-			{
+        "movies": [
+            "侏羅紀公園",
+            "侏羅紀世界: 統霸天下"
+        ],
+        "movie_scenes": [
+            {
                 "id": 1,
-				"movie": "Jurassic Park",
-				"scene_description": "The endorsement team was meant to see the Dilophosaurus in its paddock during their tour of Jurassic Park, but none revealed themselves to the visitors.\n\nWhen Dennis Nedry turned off the park's security systems so he could steal InGen's dinosaur embryos, Dilophosaurus was one of the many dinosaurs that were free to roam the island. A juvenile Dilophosaur stalked Nedry himself when he tried to get his vehicle unstuck out of a fallen tree limb. Feeling uneasy, Nedry stopped rope towing his jeep to face his stalker that was right behind him. Dennis Nedry tried to trick the dangerous dinosaur into fetching a stick for him, but the Dilophosaurus showed little care for the stick outside of the brief sound it made when it hit the forest floor. Angered that his trick was unsuccessful, Dennis Nedry jeered the Dilophosaur before running back to his jeep. However, when he turned around, the \"Dilo\" was there, and it popped up its frill before spraying venom at Nedry. It landed on his raincoat, and Nedry ran to his vehicle. But before he could get in, another shot by the Dilophosaur hit him straight in the eyes. Poor Dennis managed to get in his vehicle, but he lost the counterfeit shaving cream can that held the dinosaur embryos he stole. When he shut the door, he realized with horror the \"Dilo\" was inside, and it proceeded to devour him.\n\nIt was confirmed on the DPG website that all five Dilophosaurs residing on Nublar during the Jurassic Park incident had survived to 1994 at least. Wild populations existed on Isla Sorna after Hurricane Clarissa struck the island because Dilophosaurus was among one of the information sheets given to the InGen Hunters during the Isla Sorna Incident and was also a screensaver for one of the computers inside the Fleetwood RV Mobile Lab that was used in the same incident."
-			},
+                "movie": "侏羅紀公園",
+                "scene_description": "認證團隊在參觀侏羅紀公園期間本來要在其圍欄中看到雙冠龍，但沒有一隻向遊客展示自己。\n\n當丹尼斯·奈德里關閉公園的安全系統以便他可以偷取英根公司的恐龍胚胎時，雙冠龍是許多能夠在島上自由漫遊的恐龍之一。一隻幼體雙冠龍在奈德里試圖將他的車輛從倒下的樹枝中拉出時跟蹤奈德里本人。感到不安，奈德里停止用繩索拖拽他的吉普車來面對就在他身後的跟蹤者。丹尼斯·奈德里試圖欺騙危險的恐龍為他撿樹枝，但雙冠龍除了樹枝撞擊森林地面時發出的短暫聲音外，對樹枝幾乎不關心。因為他的把戲不成功而生氣，丹尼斯·奈德里在跑回他的吉普車之前嘲弄了雙冠龍。然而，當他轉身時，「雙冠」就在那裡，它彈出了它的頸圈，然後向奈德里噴射毒液。毒液落在他的雨衣上，奈德里跑向他的車輛。但在他能夠進入之前，雙冠龍的另一次射擊直接擊中了他的眼睛。可憐的丹尼斯設法進入了他的車輛，但他丟失了裝有他偷來的恐龍胚胎的偽造剃鬚膏罐。當他關上門時，他恐懼地意識到「雙冠」在裡面，它繼續吞噬他。\n\n在DPG網站上確認，在侏羅紀公園事件期間居住在努布拉島上的所有五隻雙冠龍至少在1994年倖存下來。在颶風克拉麗莎襲擊島嶼後，伊斯拉索納島上存在野生族群，因為雙冠龍是在同一事件中使用的弗利特伍德RV移動實驗室的其中一台電腦的螢幕保護程式，也是在伊斯拉索納島事件期間給英根獵人的信息表之一。"
+            },
             {
                 "id": 2,
-                "movie": "Jurassic World: Dominion",
-                "scene_description": "Some Dilophosaurus were captured and taken to the Biosyn sanctuary by 2022. At night, a Dilophosaurus ambushes Claire Dearing at the Biosyn Sanctuary, roaring at her with its frill popped up. It also appears to be taller than her, suggesting this specimen is fully grown. However, Claire is rescued by Owen Grady who grabs the dinosaur's neck from behind before it could spit its venom while Kayla Watts tasers it, driving the dinosaur off.\n\nAfter Lewis Dodgson cause a forest fire with giant locusts, Dilophosaurus were among the dinosaurs that were evacuated into the sanctuary. Later, three Dilophosaurus ambush Lewis Dodgson as he tries to escape with the Barbasol can. The three corner Dodgson in the hyperloop and devour him, mirroring the death of Dennis Nedry twenty nine years before. It is assumed that the Dilophosaurus now resides in the wild or currently residing in the abandoned valley which is now a global preserve owned by the United Nations."
+                "movie": "侏羅紀世界: 統霸天下",
+                "scene_description": "到2022年，一些雙冠龍被捕獲並帶到百奧辛保護區。晚上，一隻雙冠龍在百奧辛保護區伏擊克萊爾·迪林，彈出頸圈對她咆哮。它似乎也比她高，表明這個標本已經完全成長。然而，克萊爾被歐文·格雷迪救了，他從後面抓住恐龍的脖子，然後凱拉·瓦茨電擊它，趕走了恐龍。\n\n在路易斯·道森用巨型蝗蟲引起森林火災後，雙冠龍是被疏散到保護區的恐龍之一。後來，三隻雙冠龍在路易斯·道森試圖帶著Barbasol罐逃跑時伏擊他。三隻恐龍在超迴路中將道森逼入絕境並吞噬了他，呼應了29年前丹尼斯·奈德里的死亡。假設雙冠龍現在居住在野外或目前居住在廢棄的山谷中，該山谷現在是聯合國擁有的全球保護區。"
             }
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Dilophosaurus"
-	},
-	{
-		"id": 5,
-		"name": "Compsognathus",
-		"type": "land",
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Dilophosaurus"
+    },
+    {
+        "id": 5,
+        "name": "美頜龍",
+        "type": "land",
         "latitude": 44.35894,
         "longitude": -100.34366,
-		"movies": [
-			"The Lost World: Jurassic Park",
-			"Jurassic Park III",
-			"Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
-		],
-		"movie_scenes": [
-			{
+        "movies": [
+            "失落的世界: 侏羅紀公園",
+            "侏羅紀公園 III",
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
+        ],
+        "movie_scenes": [
+            {
                 "id": 1,
-				"movie": "The Lost World: Jurassic Park",
-				"scene_description": "When the Bowman family went to Isla Sorna for vacation, Cathy Bowman encountered a Compsognathus scout on one of the island's beaches. She liked the small dinosaur and fed it some food. But to her and her family's horror the rest of the pack emerged from the nearby forest to attack Cathy, though she survived the attack.\n\nWhen Cathy's parents sued InGen for the injuries she sustained from the dinosaurs, this set course the events of the Isla Sorna Incident of 1997 where InGen's CEO John Hammond was fired and succeeded by his nephew Peter Ludlow who hired a team to capture dinosaurs living on Isla Sorna for Jurassic Park: San Diego whom he wanted to revive.\n\nDuring the Hunters' capture of the dinosaurs on the Game Trail, hunter Dieter Stark encountered a Compy whom he attacked with his taser for the fun of it.\n\nThe hunters captured several Compsognathus and two of them were showcased by InGen CEO Peter Ludlow during his transmission to the board of his company. The Gatherers later freed at least three Compies from the encampment. The individuals in Ludlow's tent were most likely killed when the captured Triceratops freed by the Gatherers. It is unknown what became of the other individuals and whether or not they survived the chaos in the camp.\n\nWhen Dieter Stark went to urinate in the woods of Isla Sorna after the skirmish at the InGen Harvester Encampment, he encountered another Compsognathus. He proceeded to tase it like he had done the previous one he encountered before. This individual turned out to be a scout and its pack pursued Dieter who had gotten lost in the woods. They attacked once he tripped on a slope while trying to get back to his group.\n\nHe managed to survive the attack and scared the pack away once he had removed them from his body. But the pack soon returned to attack Stark again at a stream where the Compies succeeded in killing him."
-			},
-			{
+                "movie": "失落的世界: 侏羅紀公園",
+                "scene_description": "當鮑曼家族前往伊斯拉索納島度假時，凱茜·鮑曼在島嶼的海灘之一遇到了一隻美頜龍偵察兵。她喜歡這隻小恐龍並餵了它一些食物。但讓她和她的家人恐懼的是，其餘的族群從附近的森林中出現攻擊凱茜，儘管她在攻擊中倖存了下來。\n\n當凱茜的父母因她從恐龍那裡受到的傷害起訴英根公司時，這為1997年伊斯拉索納島事件的事件設定了路線，英根公司的CEO約翰·哈蒙德被解僱，由他的侄子彼得·拉德羅接任，他雇用了一個團隊來捕獲生活在伊斯拉索納島上的恐龍，為他想要復興的侏羅紀公園：聖地牙哥。\n\n在獵人們在遊戲小徑上捕獲恐龍期間，獵人迪特·斯塔克遇到了一隻美頜龍，他為了好玩用電擊槍攻擊它。\n\n獵人們捕獲了幾隻美頜龍，其中兩隻在英根公司CEO彼得·拉德羅向他公司董事會的傳輸中展示。採集者後來從營地釋放了至少三隻美頜龍。拉德羅帳篷中的個體很可能在採集者釋放的三角龍被殺死時死亡。其他個體是否倖存以及是否在營地的混亂中倖存下來尚不清楚。\n\n當迪特·斯塔克在英根收割者營地的衝突後去森林中小便時，他遇到了另一隻美頜龍。他繼續像之前遇到的那隻一樣電擊它。這個個體原來是偵察兵，它的族群追趕迷路在森林中的迪特。一旦他在試圖回到他的小組時絆倒在斜坡上，他們就攻擊了。\n\n他設法在攻擊中倖存並將它們從身體上移除後嚇跑了族群。但族群很快回來在溪流中再次攻擊斯塔克，美頜龍成功殺死了他。"
+            },
+            {
                 "id": 2,
-				"movie": "Jurassic Park III",
-				"scene_description": "During his stay on Isla Sorna, 12-year old Eric Kirby learned to use Tyrannosaurus urine to repel Compsognathus.\n\nCompsognathus were present during the battle with the Spinosaurus and Tyrannosaurus rex as the smaller dinosaurs ran for their lives as the two theropods fought to the death.\n\nWhen Dr. Alan Grant visited the truck that Eric was living in it a pack of Compies arrived near their location but they did not attack them and instead fed on some insects."
-			},
-			{
+                "movie": "侏羅紀公園 III",
+                "scene_description": "在伊斯拉索納島逗留期間，12歲的埃里克·柯比學會了使用霸王龍尿液來驅趕美頜龍。\n\n美頜龍在棘龍和霸王龍的戰鬥中出現，因為兩隻獸腳類動物為生死而戰，較小的恐龍為了生命而奔跑。\n\n當艾倫·格蘭特博士拜訪埃里克居住的卡車時，一群美頜龍抵達他們附近的位置，但它們沒有攻擊他們，而是以一些昆蟲為食。"
+            },
+            {
                 "id": 3,
-				"movie": "Jurassic World: Fallen Kingdom",
-				"scene_description": "It is revealed that there are surviving Compsognathus populations on Isla Nublar, but will now face an impending danger, alongside many other creatures, in the form of an erupting volcano.\n\nThey are seen running alongside several other species from Mount Sibo.\n\nSeveral Compies have been rescued from the island alongside many other species in order to be sold at auction, and they are later seen running out of the Lockwood Manor after Maisie released all of the captured animals. They eventually eat some of Eli Mills’s remains after the latter was killed and devoured by the T. rex."
-			},
+                "movie": "侏羅紀世界: 殞落國度",
+                "scene_description": "揭示努布拉島上有倖存的美頜龍族群，但現在將與許多其他生物一起面臨即將到來的危險，以爆發火山的形式。\n\n牠們被看到與其他幾個物種一起從錫博山逃跑。\n\n幾隻美頜龍與許多其他物種一起從島嶼上被救出，以便在拍賣會上出售，牠們後來被看到在梅西釋放所有被捕獲的動物後跑出洛克伍德莊園。牠們最終在T-rex殺死並吞噬後者後吃掉了伊萊·米爾斯的一些遺骸。"
+            },
             {
                 "id": 4,
-                "movie": "Jurassic World: Dominion",
-                "scene_description": "In February 2021, Kayla Watts shipped twelve Compsognathus to Biosyn's sanctuary.\n\nIn 2022, the Department of Prehistoric Wildlife has confirmed sighting of Compsognathus in Brazil eating trashes, Salem, Oregon (as an angry individual is caught in a rodent trap), Allendale, Wyoming (under its scene in Battle at Big Rock), Petit-Caux, France (as they cause power outages due to their nests), Weurt, Netherlands (where one challenged a YouTuber, TheGamingBeaver, into a staring contest), and Rome, Italy (where like the Pteranodon in Spain, it steals a man camera as it is attracted to the shining light).\n\nAt least five Compsognathus can be seen in a cage at the Amber Clave Night Market in Malta. Later, as Rainn Delacourt tries to escape Owen Grady, he knocks over the cage, allowing the Compies to escape and jump onto Owen. Luckily, Owen manages to remove them from his body and continues to pursue Delacourt. It is possible that the Compsognathus might escaped the market and lives in the wild and probably ending up in the Biosyn Sanctuary."
+                "movie": "侏羅紀世界: 統霸天下",
+                "scene_description": "2021年2月，凱拉·瓦茨將12隻美頜龍運送到百奧辛的保護區。\n\n2022年，史前野生動物部門確認在巴西吃垃圾的美頜龍目擊報告，俄勒岡州塞勒姆（一隻憤怒的個體被困在齧齒動物陷阱中），懷俄明州艾倫代爾（在Big Rock戰役中的場景下），法國佩蒂科（牠們因為巢穴而造成停電），荷蘭韋爾特（一隻挑戰YouTuber TheGamingBeaver進行凝視比賽），以及意大利羅馬（就像西班牙的翼龍一樣，牠偷走了一個男人的相機，因為牠被閃亮的光線吸引）。\n\n在馬爾他的琥珀爪夜市的籠子中可以看到至少五隻美頜龍。後來，當雷恩·德拉庫爾試圖逃脫歐文·格雷迪時，他撞翻了籠子，讓美頜龍逃脫並跳到歐文身上。幸運的是，歐文設法將牠們從身體上移除並繼續追趕德拉庫爾。美頜龍可能逃脫了市場並生活在野外，可能最終在百奧辛保護區結束。"
             }
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Compsognathus"
-	},
-	{
-		"id": 6,
-		"name": "Stegosaurus",
-		"type": "land",
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Compsognathus"
+    },
+    {
+        "id": 6,
+        "name": "劍龍",
+        "type": "land",
         "latitude": 37.3346,
         "longitude": -122.0090,
-		"movies": [
-			"The Lost World: Jurassic Park",
-			"Jurassic Park III",
-			"Jurassic World",
-			"Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
-		],
-		"movie_scenes": [
-			{
+        "movies": [
+            "失落的世界: 侏羅紀公園",
+            "侏羅紀公園 III",
+            "侏羅紀世界",
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
+        ],
+        "movie_scenes": [
+            {
                 "id": 1,
-				"movie": "The Lost World: Jurassic Park",
-				"scene_description": "In 1997, the Gatherers encountered a small Stegosaurus herd near a river bed; a pair bond, a subadult, and an infant. Dr. Sarah Harding, who had arrived on Isla Sorna before the rest of her team did, was taking photographs of this herd when the other Gatherers found her. She approached the herd very closely and encountered an infant, Claire, and took pictures of her. But the film of her camera was full and it began to make noises. Because of the noise, the herd saw Sarah as a threat to their young and started to attack Sarah. She retaliated by hiding in a log nearby, as a male of the herd pursued her and hit the log with his thagomizer.\n\nThe herd quickly left soon afterward.\n\nLater, Peter Ludlow's hunters captured both an infant and an adult Stegosaurus. It is unknown if the baby Stegosaurus is Claire or an entirely different infant. These stegosaurs were later freed by Gathers Nick Van Owen and Dr. Sarah Harding.\n\nIn the aftermath, another herd was present that contained another juvenile that might have also been Claire after the Tyrannosaur Buck and Junior had been returned to the island after the San Diego Incident."
-			},
-			{
+                "movie": "失落的世界: 侏羅紀公園",
+                "scene_description": "1997年，採集者們在河床附近遇到了一小群劍龍；一對配偶、一隻亞成體和一隻幼體。莎拉·哈丁博士在團隊其他成員到達伊斯拉索納島之前就已經抵達，當時正在為這群劍龍拍照，其他採集者發現了她。她非常接近地接近了這群劍龍，遇到了一隻名叫克萊爾的幼體，並為她拍照。但她相機的膠卷滿了，開始發出噪音。由於噪音，這群劍龍將莎拉視為對他們幼崽的威脅，開始攻擊莎拉。她躲在附近的一根原木後面反擊，群體中的一隻雄性追趕她並用尾刺擊打原木。\n\n群體很快就離開了。\n\n後來，彼得·拉德羅的獵人們捕獲了一隻幼體和一隻成年劍龍。不清楚幼體劍龍是否是克萊爾或完全不同的幼體。這些劍龍後來被採集者尼克·范·歐文和莎拉·哈丁博士釋放。\n\n事後，出現了另一群劍龍，其中包含另一隻幼體，在聖地牙哥事件後霸王龍公牛和小霸王龍被送回島嶼後，這隻幼體可能也是克萊爾。"
+            },
+            {
                 "id": 2,
-				"movie": "Jurassic Park III",
-				"scene_description": "Stegosaurs were briefly encountered twice by Dr. Alan Grant and the Kirby family when they flew over Sorna and when they traveled through one of the rivers of Isla Sorna on the Isla Sorna Aviary's barge where the Stegosaurus lined the riversides."
-			},
-			{
+                "movie": "侏羅紀公園 III",
+                "scene_description": "艾倫·格蘭特博士和柯比家族在飛越索納島時以及乘坐伊斯拉索納鳥舍駁船穿越伊斯拉索納島的一條河流時，簡短地兩次遇到了劍龍，劍龍排列在河岸兩側。"
+            },
+            {
                 "id": 3,
-				"movie": "Jurassic World",
-				"scene_description": "A heard of Stegosaurs can be seen by a river in the Jurassic World trailer."
-			},
-			{
+                "movie": "侏羅紀世界",
+                "scene_description": "在侏羅紀世界預告片中可以看到一群劍龍在河邊。"
+            },
+            {
                 "id": 4,
-				"movie": "Jurassic World: Fallen Kingdom",
-				"scene_description": "The Stegosaurus first appear during a stampede with other dinosaurs as they run away from Mt. Sibo during its eruption, bumping into Owen’s party in the process.\n\nSeveral Stegosaurus were successfully captured by Ken Wheatley and his group of mercenaries to be loaded on to Arcadia to be taken to the mainland. One individual is about to be loaded onto the ship until Wheatley ordered the truck carrying it to stop for a while. Wheatley soothes the tranquilized dinosaur's head for a bit before brandishing his pliers to pull one of its teeth out. He taunted the Stegosaurus by showing it its own tooth before placing it among his collection of other dinosaur teeth he had extracted and kept as trophies.\n\nWhen the ship Arcadia left Isla Nublar, one seemingly distressed adult Stegosaurus could be seen calling out from its cage.\n\nThe captured Stegosaurus were locked and cages for auction, with one being successfully sold. They were once again threatened by death due to some poisonous gas. Luckily, they were released from their cages by Claire Dearing and were able to escape thanks to Maisie Lockwood. They were last seen escaping the Lockwood Manor along with many other dinosaurs and fleeing into the forests of Northern California."
-			},
+                "movie": "侏羅紀世界: 殞落國度",
+                "scene_description": "劍龍首次出現是在與其他恐龍的踩踏中，當他們從錫博山爆發中逃跑時，在過程中撞到了歐文的團隊。\n\n肯·惠特利和他的雇傭兵團隊成功捕獲了幾隻劍龍，將其裝載到阿卡迪亞號上運送到大陸。一隻個體即將被裝上船，直到惠特利命令載運它的卡車暫停一會兒。惠特利撫摸了一下被麻醉的恐龍的頭部，然後拿出鉗子拔掉它的一顆牙齒。他對劍龍炫耀它自己的牙齒，然後將其放在他收集和保存的其他恐龍牙齒戰利品中。\n\n當阿卡迪亞號船離開伊斯拉努布拉島時，可以看到一隻看似痛苦的成年劍龍從籠子裡發出叫聲。\n\n被捕獲的劍龍被鎖在籠子裡進行拍賣，其中一隻成功售出。由於一些有毒氣體，他們再次面臨死亡威脅。幸運的是，他們被克萊爾·迪林從籠子裡釋放，並能夠在梅西·洛克伍德的幫助下逃脫。他們最後被看到與許多其他恐龍一起逃離洛克伍德莊園，逃入北加州的森林。"
+            },
             {
                 "id": 5,
-                "movie": "Jurassic World: Dominion",
-                "scene_description": "By 2022, the Department of Prehistoric Wildlife had sightings of Stegosaurus in Sanford and Orlando, Florida, Carrabassett, Maine, and Diablo, Washington in the USA. It has also been seen in British Columbia in Canada.\n\nTwo Stegosaurus are seen at the U.S. Wildlife Relocation Facility alongside a baby Nasutoceratops, a herd of Parasaurolophus and Rexy when Alan Grant and Ellie Sattler go through it to take a plane to go to Biosyn's headquartes in Italy. These individuals will later be transferred to the company's sanctuary. There is an unknown number of individuals living in the sanctuary. After the president Lewis Dodgson caused a forest fire with giant engineering locusts, Stegosaurus were part of the animals that were evacuated into the headquarters. It is possible that the Stegosaurus continue to resides in the wild or in the now global preserve."
+                "movie": "侏羅紀世界: 統霸天下",
+                "scene_description": "到2022年，史前野生動物部門在美國佛羅里達州的桑福德和奧蘭多、緬因州的卡拉巴塞特以及華盛頓州的迪亞布洛有劍龍目擊報告。在加拿大的不列顛哥倫比亞省也有看到。\n\n當艾倫·格蘭特和埃利·薩特勒經過美國野生動物遷移設施前往百奧辛在義大利的總部時，兩隻劍龍與一隻幼體鼻角龍、一群副櫛龍和雷克西一起出現在美國野生動物遷移設施。這些個體稍後將被轉移到該公司的保護區。保護區中生活著數量不明的個體。在總裁路易斯·道森用巨型工程蝗蟲引起森林火災後，劍龍是被疏散到總部的動物之一。劍龍可能繼續在野外生活或在現在的全球保護區中生活。"
             }
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Stegosaurus"
-	},
-	{
-		"id": 7,
-		"name": "Pachycephalosaurus",
-		"type": "land",
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Stegosaurus"
+    },
+    {
+        "id": 7,
+        "name": "厚頭龍",
+        "type": "land",
         "latitude": 35.794540,
         "longitude": -95.310935,
-		"movies": [
-			"The Lost World: Jurassic Park",
-			"Jurassic World"
-		],
-		"movie_scenes": [
-			{
+        "movies": [
+            "失落的世界: 侏羅紀公園",
+            "侏羅紀世界"
+        ],
+        "movie_scenes": [
+            {
                 "id": 1,
-				"movie": "The Lost World: Jurassic Park",
-				"scene_description": "During the game trail harvest, the InGen hunting team captured a juvenile Pachycephalosaurus on the Game Trail. It was nicknamed \"Friar Tuck\" because their leader Roland Tembo was unable to pronounce its genus name.\n\nIn the struggle, the creature briefly managed to escape and charged forward at a hunter taking cover behind a car door. The Pachycephalosaurus knocked one hunter aside as it went, and realizing what was about to happen, the other hunter tried to take shelter in his jeep. Unfortunately, the animal slammed into the car door before the man could pull his legs into the car, crushing his legs in the door in the process. The Pachycephalosaurus was eventually subdued and captured by the hunting team.\n\nThis individual was later freed by Gatherers Dr. Sarah Harding and Nick Van Owen, though it is unknown if it survived."
-			},
-			{
+                "movie": "失落的世界: 侏羅紀公園",
+                "scene_description": "在遊戲小徑捕獲期間，英根獵人團隊在遊戲小徑上捕獲了一隻幼體厚頭龍。它被暱稱為'塔克修士'，因為他們的首領羅蘭·坦博無法正確發音其屬名。\n\n在掙扎中，這隻生物短暫地逃脫，並衝向躲在車門後面的獵人。厚頭龍在前進時撞倒了一名獵人，意識到即將發生什麼，另一名獵人試圖躲進他的吉普車。不幸的是，在這名男子能夠將腿收進車內之前，這隻動物撞擊了車門，在此過程中壓碎了他的腿。厚頭龍最終被獵人團隊制服並捕獲。\n\n這個個體後來被採集者莎拉·哈丁博士和尼克·范·歐文釋放，但不清楚它是否倖存。"
+            },
+            {
                 "id": 2,
-				"movie": "Jurassic World",
-				"scene_description": "A new set of clones was created by InGen for Masrani Global Corporation's Jurassic World. The website says the new clones were close to the size of the originals, though this is incorrect. The websites' skin was dark red with lime spots and a lime underbelly. They resided in the self-titled Pachy Arena where visitors could watch them have on of their famous head-butt duels. Everytime they butt heads, their implants became temporarily disabled, which allowed the Pachycephalosaurus to escape the Pachy Arena without being tracked.\n\nIt is unknown as to why the website Pachycephalosaurus look very different from their original cloned counterparts, as in the security camera, the Pachycephalosaurus looked very different.\n\nBefore the 2015 Isla Nublar Incident, an adult Pachycephalosaurus broke out of the Pachy Arena but was tranquilized and returned to the paddock by some Asset Containment Unit workers."
-			}
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Pachycephalosaurus"
-	},
-	{
-		"id": 8,
-		"name": "Pteranodon",
-		"type": "air",
+                "movie": "侏羅紀世界",
+                "scene_description": "英根為馬斯拉尼全球公司的侏羅紀世界創造了一組新的複製品。網站上說新的複製品接近原始體型，儘管這是不正確的。網站上的皮膚是深紅色，帶有青綠色斑點和青綠色腹部。它們居住在同名的厚頭龍競技場，遊客可以在那裡觀看它們進行著名的頭撞決鬥。每次它們頭部相撞時，它們的植入物會暫時失效，這使得厚頭龍能夠在不被追蹤的情況下逃離厚頭龍競技場。\n\n不清楚為什麼網站上的厚頭龍看起來與它們原始的複製品很不同，因為在監控攝影機中，厚頭龍看起來非常不同。\n\n在2015年伊斯拉努布拉島事件之前，一隻成年厚頭龍衝出了厚頭龍競技場，但被一些資產控制單位工作人員麻醉並送回圍欄。"
+            }
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Pachycephalosaurus"
+    },
+    {
+        "id": 8,
+        "name": "無齒翼龍",
+        "type": "air",
         "latitude": 32.7848,
         "longitude": -96.8025,
-		"movies": [
-			"The Lost World: Jurassic Park",
-			"Jurassic Park III",
-			"Jurassic World",
-			"Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
-		],
-		"movie_scenes": [
-			{
+        "movies": [
+            "失落的世界: 侏羅紀公園",
+            "侏羅紀公園 III",
+            "侏羅紀世界",
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
+        ],
+        "movie_scenes": [
+            {
                 "id": 1,
-				"movie": "The Lost World: Jurassic Park",
-				"scene_description": "Pteranodons have a cameo appearance at the very end of The Lost World. They were seen flying over a group of Stegosaurus and one of them is shown resting on a branch."
-			},
-			{
+                "movie": "失落的世界: 侏羅紀公園",
+                "scene_description": "無齒翼龍在失落的世界的最後出現。它們被看到飛越一群劍龍，其中一隻停在樹枝上。"
+            },
+            {
                 "id": 2,
-				"movie": "Jurassic Park III",
-				"scene_description": "The Pteranodon family living in the Isla Sorna Aviary had a major skirmish with the surviving humans involved in the incident. One of the adults detected the human visitors' presence in its enclosure as they crossed the bridge that connects the observatory to the Isla Sorna Aviary so they could get in the barge below. The adult pterosaur decided to land on the bridge when it was Eric Kirby's time to cross. Eric let out a scream of terror just before breaking into a sprint when the Pteranodon emerged from the thick fog surrounding the back of the laboratory to the front of the aviary.\n\nThe large pterosaur responded by snatching Eric Kirby and flying off as his group were racing towards the situation. The pterosaur carried the young human to a rock platform near its nest filled with baby Pteranodons chirping out of hunger. With the hungry babies setting their sights on him, leaving Eric to quarrel with the Pteranodons.\n\nEventually, the juvenile Pteranodons swarmed around him, but there was hope for Eric because Billy Brennan descended towards the nesting area to save the boy using the recovered paraglider of the now-deceased Ben Hildebrand and was calling to him. The baby Pteranodons bit tightly on Eric Kirby's jacket, focused on the appeal rather than their main target, allowing Eric to use this to his advantage by giving his jacket over to the hungry Pteranodons and leaping to a platform behind him afterward. Though as soon as he reached his destination, he found there was nowhere else to flee to, allowing the juvenile pterosaurs to continue attacking him.\n\nThankfully for Eric Kirby, Billy Brennan was coming close to the stone platform he was on, wanting Eric to jump to him. Eric was eager to escape his attackers so he swiped the Pteranodons off of him and he successfully clung to Billy soon afterward. The Pteranodon juveniles ceased their pursuit as Eric Kirby drifted away with his rescuer, but there was one that continued the chase and managed to grasp itself onto Eric's back. However, the pterosaur's grip was not very firm and it soon fell off as Billy made sharp turns as he glided. Despite being rescued by Billy Brennan, the boy was not safe from danger. As the two paraglided, three adult Pteranodons followed them with one making a minor tear in their parachute. This attack made Billy demand Eric let go of him and jump safely into the water below.\n\nConcurrent to the events mentioned above, Dr. Alan Grant, Amanda, and Paul Kirby were racing through the aviary's walkway trying to reach Eric. But they were put to a halt when they reached a section of the walkway that was completely missing. This gave an adult Pteranodon the chance to strike them. It tried getting through the open passageway, but its large wingspan and head crest wouldn't allow it to fit through. So it decided to fly up and land on the top of one of the sections of the passageway that was slightly damaged and slide its beak through hoping to bite one of the fleeing humans. Because of its weight, the roof of the passage collapsed, getting the Pteranodon inside the walkway. As the flying reptile cornered its prey to the end of the hallway, the section they were in collapsed from the added weight of the pterosaur, plunging both the humans and the Pteranodon into the water below. The pterosaur quickly reached by emerging to prepare itself for flight, but was pushed back into the river by the falling segment it unwillingly helped detach.\n\nAs Billy Brennan glided away from any of the airborne reptiles chasing him, his paraglider became snagged on a bulging nearby rock face. With their prey in a weak position, two Pteranodons began to circle around him like buzzards, preparing to strike. Billy freed himself by removing his harness and fell into the riverbank below, but he was not free from the sight of the Pterosaurs. Dr. Alan Grant and Paul Kirby, who had just reached dry land, reunited with Eric Kirby and watched Billy from afar, rushed to rescue him.\n\nOnce they reached Billy's position, a Pteranodon snatched him, but it lost grip of its prey seconds after grabbing him, only for a second Pteranodon to pin him to the rock bed of the river. Though, like the previous attack, Brennan broke free from his attackers' grasp. As the pterosaurs attacked him, Billy demanded that the two group members not try saving him. After one final plea, the two pterosaurs that had pursued Billy relentlessly assaulted him at the same time and proceeded to viciously maul him as his body drifted down the river. However, Brennan somehow survived the lacerations the Pteranodons gave him and he was later rescued by the Marines at the end of the incident.\n\nA third Pteranodon began to chase Dr. Alan Grant and Paul Kirby as Billy was mauled. But when it tried to snatch one of the humans, they both dived into the deep waters of the river where they swam to the barge and the rest of their group. The Pteranodon followed in pursuit but was blocked by one of the metal walls of the Aviary. While the two men went to save Billy, Eric and Amanda Kirby unlocked the door to the Isla Sorna Aviary to escape it. After the two unlocked the door, Amanda soon relocked it, though unknown to her it soon reverted back when she and the other survivors rushed to get to the boat.\n\nThe three Pteranodon adults escaped their enclosure after the humans had left. For some reason, they abandoned their young. This could have been because they didn't know how expansive the world was outside of the Aviary or thought the fourth Pteranodon would take care of the juveniles, which seems unlikely after the section of the walkway fell on it. The survivors and the Marines/Navy who had rescued them saw the three Pterosaurs as they flew away from Isla Sorna. When asked by Dr. Grant why the flying reptiles were leaving their home, Dr. Grant suggested that they were looking for new nesting grounds. The survivors hardly showed concern for the escaped pterosaurs, focusing on the joy of being rescued.\n\nThe escaped Pteranodons traveled a long distance, reaching Canada before they were \"cleaned up\" by Vic Hoskins and his InGen Security Division team. How the situation was handled impressed Simon Masrani who had bought out InGen several years before and had plans to make his own dinosaur park. He decided to appoint Vic to a high position in the InGen Security Division to reinvent the security firm."
-			},
-			{
+                "movie": "侏羅紀公園 III",
+                "scene_description": "居住在伊斯拉索納鳥舍的無齒翼龍家族與事件中倖存的人類發生了重大衝突。當他們穿過連接觀測站與伊斯拉索納鳥舍的橋樑以便進入下方的駁船時，一隻成年無齒翼龍探測到人類遊客在其圍欄中的存在。當輪到埃里克·柯比穿過時，成年翼龍決定降落在橋上。當無齒翼龍從實驗室後方的濃霧中出現到鳥舍前方時，埃里克發出恐懼的尖叫，然後開始奔跑。\n\n這隻大型翼龍的反應是抓住埃里克·柯比並飛走，當時他的團隊正衝向現場。翼龍將這個年輕人類帶到其巢穴附近的岩石平台上，巢穴中充滿了飢餓啁啾的幼體無齒翼龍。饑餓的幼龍盯上了他，讓埃里克與無齒翼龍爭鬥。\n\n最終，幼體無齒翼龍蜂擁而上圍攻他，但埃里克有希望，因為比利·布倫南使用已故的本·希德布蘭德恢復的滑翔傘降落到築巢區域拯救這個男孩，並呼喊他。幼體無齒翼龍緊咬埃里克·柯比的夾克，專注於吸引力而不是主要目標，這讓埃里克能夠利用這一點，將夾克給飢餓的無齒翼龍，然後跳到他身後的平台上。但一到達目的地，他發現沒有其他地方可以逃跑，讓幼體翼龍繼續攻擊他。\n\n幸運的是，對埃里克·柯比來說，比利·布倫南正接近他所在的石頭平台，希望埃里克跳向他。埃里克急於逃脫攻擊者，所以他擺脫了無齒翼龍，很快成功地抓住了比利。當埃里克·柯比與救援者一起漂流時，幼體無齒翼龍停止了追趕，但有一隻繼續追趕並成功抓住了埃里克的背部。然而，翼龍的抓力不是很牢固，當比利在滑翔時做出急轉彎時，它很快就掉了下來。儘管被比利·布倫南救出，這個男孩並沒有脫離危險。當兩人滑翔時，三隻成年無齒翼龍跟著他們，其中一隻在他們的降落傘上造成了輕微撕裂。這次攻擊讓比利要求埃里克放開他，安全地跳入下面的水中。\n\n與上述事件同時，艾倫·格蘭特博士、亞曼達和保羅·柯比正在鳥舍的走道上奔跑，試圖到達埃里克。但當他們到達走道完全缺失的部分時，他們被迫停下來。這給了成年無齒翼龍攻擊他們的機會。它試圖通過開放的通道，但其巨大的翼展和頭冠不允許它穿過。所以它決定飛起來，降落在通道中一個稍微損壞的部分頂部，並滑動其喙，希望咬到其中一個逃跑的人類。由於它的重量，通道的屋頂倒塌了，無齒翼龍進入了走道。當這隻飛行爬蟲將獵物逼到走廊盡頭時，由於翼龍增加的重量，他們所在的部分倒塌了，將人類和無齒翼龍都墜入下面的水中。翼龍迅速浮出水面準備飛行，但被它無意中幫助脫落的墜落部分推回河中。\n\n當比利·布倫南從任何追趕他的空中爬蟲那裡滑翔離開時，他的滑翔傘被附近突出的岩面勾住了。獵物處於弱勢地位，兩隻無齒翼龍開始像禿鷹一樣圍繞他盤旋，準備攻擊。比利通過解開安全帶解脫自己，跌落到下面的河岸，但他沒有擺脫翼龍的視線。剛到達乾燥陸地的艾倫·格蘭特博士和保羅·柯比與埃里克·柯比重聚，從遠處觀看比利，急忙去救他。\n\n一旦他們到達比利的位置，一隻無齒翼龍抓住了他，但在抓住他幾秒鐘後失去了抓力，只讓第二隻無齒翼龍將他壓在河床的岩石上。不過，就像之前的攻擊一樣，布倫南擺脫了攻擊者的抓力。當翼龍攻擊他時，比利要求兩名團隊成員不要試圖救他。經過最後的懇求，兩隻一直無情追趕比利的翼龍同時攻擊他，並在他的身體順流漂下時惡毒地撕咬他。然而，布倫南以某種方式在無齒翼龍造成的撕裂傷中倖存下來，並在事件結束時被海軍陸戰隊救出。\n\n當比利被撕咬時，第三隻無齒翼龍開始追趕艾倫·格蘭特博士和保羅·柯比。但當它試圖抓住其中一個人類時，他們都潛入河水深處，游向駁船和他們團隊的其餘成員。無齒翼龍跟著追趕，但被鳥舍的一面金屬牆擋住了。當兩名男子去救比利時，埃里克和亞曼達·柯比打開了伊斯拉索納鳥舍的門以逃離它。兩人打開門後，亞曼達很快重新鎖上了它，儘管她不知道當她和其他倖存者急著到船上時它很快又恢復了。\n\n三隻成年無齒翼龍在人類離開後逃出了圍欄。由於某種原因，它們拋棄了幼龍。這可能是因為它們不知道鳥舍外的世界有多廣闊，或者認為第四隻無齒翼龍會照顧幼龍，在走道部分倒塌在它身上後，這似乎不太可能。倖存者和救援他們的海軍陸戰隊/海軍看到三隻翼龍飛離伊斯拉索納島。當格蘭特博士被問及為什麼飛行爬蟲要離開它們的家時，格蘭特博士建議它們正在尋找新的築巢地。倖存者幾乎沒有對逃脫的翼龍表示關心，專注於被救援的喜悅。\n\n逃脫的無齒翼龍走了很長距離，到達加拿大，然後被維克·霍斯金斯和他的英根安全部門團隊清理。處理情況的方式給西蒙·馬斯拉尼留下了深刻印象，他幾年前收購了英根並計劃建造自己的恐龍公園。他決定任命維克在英根安全部門擔任高職位，以重新發明安全公司。"
+            },
+            {
                 "id": 3,
-				"movie": "Jurassic World",
-				"scene_description": "A humorous incident once occurred at Jurassic World when a Pteranodon stole a man's hat.\n\nAfter the hybrid Indominus rex escaped from its enclosure, it ran into the aviary while being pursued by the JW001 helicopter. A group of Pteranodons attacked the helicopter, killing the two Asset Containment Unit troopers onboard and causing it to crash into the enclosure. The ensuing explosion killed Simon Masrani, who was piloting the helicopter and allowed the residents of the aviary to escape.\n\nA mixed flock of Pteranodon and Dimorphodon then flew into the Main Street of the park and attacked the human visitors in the area. One Pteranodon grabbed Jurassic World employee Zara Young where she was briefly flung among other Pteranodons until she was ultimately dropped into the Jurassic World Lagoon where the Mosasaurus lived. While in the water several Pteranodons dived to retrieve her. When one of the pterosaurs finally grabbed her, the Mosasaurus inside the lagoon saw the Pteranodon flying over her territory and proceeded to consume the large pterosaur whole, killing Zara in the process, who was in the grip of the Pteranodon. Another Pteranodon nearly crushed Gray and Zach Mitchell after it was tranquilized while in flight and crashed to the ground below. The flock was eventually subdued by park rangers and Owen Grady after they entered the area with tranquilizer rifles.\n\nAnother mixed flock was present in the Gentle Giants Petting Zoo where they also attacked the people there as well as the juvenile animals.\n\nAfter the incident, Pteranodons were seen roaming the skies freely, now having become wild."
-			},
-			{
+                "movie": "侏羅紀世界",
+                "scene_description": "侏羅紀世界曾經發生了一個有趣的事件，當時一隻無齒翼龍偷了一個男人的帽子。\n\n在混血種帝王暴龍從圍欄中逃脫後，它在被JW001直升機追趕時撞進了鳥舍。一群無齒翼龍攻擊了直升機，殺死了機上的兩名資產控制單位士兵，並導致其撞入圍欄。隨後的爆炸殺死了駕駛直升機的西蒙·馬斯拉尼，並讓鳥舍的居民逃脫。\n\n無齒翼龍和雙型齒翼龍的混合群體然後飛入公園的主街，攻擊該地區的人類遊客。一隻無齒翼龍抓住了侏羅紀世界員工扎拉·楊，她在其他無齒翼龍之間短暫地被拋來拋去，直到最終被丟入侏羅紀世界湖泊，居住在那裡的滄龍從水中跳出來抓住帝王暴龍並將其拖入水下，淹死了混血種。另一隻無齒翼龍在飛行中被麻醉後幾乎壓碎了格雷和扎克·米切爾，並墜落到地面。群體最終被公園護林員和歐文·格雷迪制服，他們帶著麻醉步槍進入該地區。\n\n另一個混合群體出現在溫和巨獸撫摸動物園，它們也攻擊了那裡的人們以及幼體動物。\n\n事件後，無齒翼龍被看到自由漫遊天空，現在已經變成野生的。"
+            },
+            {
                 "id": 4,
-				"movie": "Jurassic World: Fallen Kingdom",
-				"scene_description": "It is revealed that there are surviving Pteranodon populations on Isla Nublar, although they will now face an impending danger, alongside many other creatures, in the form of an erupting volcano.\n\nPteranodon were first seen flying over Owen Grady as he was searching for the Velociraptor, Blue. More are seen flying off the island during the Eruption of Mt. Sibo, with an individual getting knocked out of the sky by falling volcanic debris around the same time that a juvenile Allosaurus was struck down by a magma rock.\n\nAt least three Pteranodon were captured and taken to Lockwood Manor, but they escaped along with the rest of the animals with the help of Claire Dearing and Maisie Lockwood. One individual attempted to carry off a mercenary who is then dropped onto a car, killing him. Three Pteranodon were seen flying in the ocean with Owen, Claire, and Maisie looking on from the jeep they were driving in. Three of them were later seen on the miniature Eiffel Tower in Las Vegas during the post-credits scene."
-			},
+                "movie": "侏羅紀世界: 殞落國度",
+                "scene_description": "揭示伊斯拉努布拉島上有倖存的無齒翼龍族群，儘管它們現在將與許多其他生物一起面臨即將到來的危險，以爆發火山的形式。\n\n無齒翼龍首次被看到飛越歐文·格雷迪，當時他正在尋找迅猛龍布魯。更多的被看到在錫博山爆發期間飛離島嶼，一個個體被墜落的火山碎片從天空中擊落，大約同時一隻幼體異特龍被岩漿石擊倒。\n\n至少三隻無齒翼龍被捕獲並帶到洛克伍德莊園，但它們與其他動物在克萊爾·迪林和梅西·洛克伍德的幫助下一起逃脫。一個個體試圖抓走一名雇傭兵，然後將他丟在車上，殺死了他。三隻無齒翼龍被看到在海洋中飛行，歐文、克萊爾和梅西從他們駕駛的吉普車中觀看。其中三隻後來在片尾字幕場景中被看到在拉斯維加斯的迷你艾菲爾鐵塔上。"
+            },
             {
                 "id": 5,
-                "movie": "Jurassic World: Dominion",
-                "scene_description": "During a flashback of the Cretaceous, a flock of Pteranodons were resting and feasting on a carcass before being scared away by a Quetzalcoatlus. Other Pteranodons were nesting near a cliff with one diving to the river to catch fishes.\n\nBy 2022, the Department of Prehistoric Wildlife had reports of Pteranodon in Chandni Chowk, India, Hakone, Japan, Vancouver, Canada, Montana Clara in the Canary Islands, Malaga, Spain, and Helena Lewis, Clark National Park in the USA, Chilca, Peru, Nashville, Tennessee and South Korea.\n\nMany Pteranodons from Isla Nublar and Isla Sorna were captured by Biosyn and transferred to its sanctuary. While Ellie Sattler, Alan Grant, and Ramsay Cole were heading towards Biosyn Valley, a Pteranodon was seen near a Dreadnoughtus as it eats and drinks in the lake. Later, after Claire ejects from the plane after it is going to crash, a flock of Pteranodons attacked her and destroyed her parachute, sending her into the territory of the Therizinosaurus. After Lewis Dodgson burns the Giant Locusts whom escape and cause a forest fire, Pteranodons were evacuated into the headquarters alongside many other dinosaurs and pterosaurs, with one flying next to another Dreadnoughtus and an Iguanodon. It can be assumed that the Pteranodons now resides in the wild or they might be continuing their lives in the abandoned sanctuary which is now a global sanctuary. A flock of Pteranodons are seen at the end of the movie migrating alongside three Quetzalcoatlus and other migratory birds, such as geese and ducks."
+                "movie": "侏羅紀世界: 統霸天下",
+                "scene_description": "在白堊紀回溯中，一群無齒翼龍在被風神翼龍嚇跑之前正在一具屍體上棲息和覓食。其他無齒翼龍在懸崖附近築巢，其中一隻俯衝到河中捕魚。\n\n到2022年，史前野生動物部門在印度昌德尼喬克、日本箱根、加拿大溫哥華、加那利群島蒙塔納克拉拉、西班牙馬拉加和美國海倫娜劉易斯克拉克國家公園、秘魯奇爾卡、田納西州納什維爾和韓國確認了無齒翼龍的目擊報告。\n\n許多來自伊斯拉努布拉島和伊斯拉索納島的無齒翼龍被百奧辛捕獲並轉移到其保護區。當埃利·薩特勒、艾倫·格蘭特和拉姆齊·科爾前往百奧辛山谷時，在一隻無畏龍在湖中進食和飲水時，在它附近看到了一隻無齒翼龍。後來，克萊爾在飛機即將墜毀後彈射出去後，一群無齒翼龍攻擊了她並摧毀了她的降落傘，將她送到鎌刀龍的領域。在路易斯·道森焚燒逃逸並引起森林火災的巨型蝗蟲後，無齒翼龍與許多其他恐龍和翼龍一起被疏散到總部，其中一隻與另一隻無畏龍和一隻禽龍一起飛行。可以假設無齒翼龍現在生活在野外，或者它們可能在現在作為全球保護區的廢棄保護區中繼續生活。在電影結尾可以看到一群無齒翼龍與三隻風神翼龍和其他候鳥（如鵝和鴨）一起遷徙。"
             }
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Pteranodon"
-	},
-	{
-		"id": 9,
-		"name": "Spinosaurus",
-		"type": "land",
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Pteranodon"
+    },
+    {
+        "id": 9,
+        "name": "棘龍",
+        "type": "land",
         "latitude": 39.7374974,
         "longitude": -104.9833087,
-		"movies": [
-			"Jurassic Park III"
-		],
-		"movie_scenes": [
-			{
+        "movies": [
+            "侏羅紀公園 III"
+        ],
+        "movie_scenes": [
+            {
                 "id": 1,
-				"movie": "Jurassic Park III",
-				"scene_description": "During his time lost on Isla Sorna Eric Kirby learned that though Tyrannosaurus rex urine can scare off small dinosaurs like Compsognathus, it can also attract Spinosaurus, which reinforces the territoriality of Spinosaurus in relation to Tyrannosaurus.\n\nAmanda Kirby, Eric's mother, apparently attracted a Spinosaurus that would follow her and her group throughout the incident by shouting her missing son's name through a megaphone. Cooper, one of the mercenaries hired by the Kirby family, spotted the large dinosaur and began to fire his rifle at it as his fellow mercenaries, Udesky and M.B. Nash, fled the area. The attack failed to stop the Spinosaurus and the dinosaur injured its attacker's arm. This caused Cooper's group to desperately attempt to leave the island in their plane.\n\nCooper ran in front of the plane as it taxied down the airstrip, and tried to convince Nash to stop the plane. The Spinosaurus quickly emerged to the right of the wounded mercenary and proceeded to devour him just as the plane prepared to lift off. The airplane collided with the Spinosaurus's flank just seconds after it takes the life of its first victim. The collision dealt nothing more than a minor injury to the large theropod, though the plane crashed into a tree in the surrounding jungle.\n\nThe Spinosaurus soon quickly found the rest of Cooper's group inside the damaged airplane, removed the cockpit and grabbed Nash's leg with its strong jaws. Nash desperately fought against the Spinosaurus grip by grabbing Amanda Kirby's legs but despite his and Udesky's efforts, he was swiftly pulled out of the plane and killed as he tried to crawl away. The Spinosaurus gave out a loud roar that shook the plane violently until it fell out of the tree and onto the ground below. With the passengers now under its feet, the Spinosaurus continued its rampage. The Spinosaurus then proceeded to roll the already damaged airplane towards itself, flatten it with its foot and rammed its head into the remaining portion, searching for the humans inside. Dr. Alan Grant and his team fled from the wreckage the Spinosaurus was scavenging, hoping it would lose sight of them. The Spinosaurus was quick to follow and began to chase them throughout the jungle only to be stopped by a patch of trees that temporarily blocked it from continuing its pursuit. The Spinosaurus managed to make its way around the blockage and met up with its prey soon afterward fleeing from the Tyrannosaurus.\n\nA conflict ensued as soon as the Spinosaurus and the Tyrannosaurus rex saw one another. The Tyrannosaurus was the first to strike, he clamped down on the Spinosaurus' neck using his strong jaws, pinning it to the ground. Nonetheless, the Spinosaurus briskly got back on its feet and broke free of the Tyrannosaurus grip, taking the chance to try and bite its opponent's flanks, with the T. rex doing the same as well. The T. rex then decided to charge headfirst into the Spinosaurus, pushing it forward, though this left him vulnerable to its next strike. The Spinosaurus bit down on the Tyrannosaurus neck, proceeded to grab it with its powerful forearms and snapped it, killing the Tyrannosaurus rex. The Spinosaurus roared triumphantly as it claimed the carcass of its recent kill. The battle allowed the human visitors to finally escape from the vicious Spinosaurus, but they would encounter the giant theropod several times throughout the incident.\n\nWhen the Spinosaurus consumed the mercenaries, their clothes and gear were undigested. The most notable of the objects was Paul Kirby's satellite phone that he gave to Nash that would ring inside its stomach. Eric Kirby, who had just met Alan Grant, heard this ringing of his father's satellite phone and assumed his family was in the area. Though he and Dr. Alan Grant did indeed reunite with his family on the opposite sides of the Isla Sorna Aviary observatory's large perimeter fence, they all were soon aware of the Spinosaurus's presence behind them after they realized that Paul lacked his phone.\n\nAs soon as the recently reunited group saw the Spinosaurus it began to chase Eric and Alan, but the two reached the other side of the fence by crawling through a hole that was in it. For a brief moment, the predator seemed to have been detoured, unable to get past the fence, until the Spinosaurus smashed through the perimeter fence. With their only means of defense against the Spinosaurus penetrated, Dr. Alan Grant, the Kirby family, and his colleague Billy Brennan fled towards the Isla Sorna Field Lab. Once inside, Paul Kirby and Alan Grant barricaded the doors right before the Spinosaurus could get inside. Unlike the fence that surrounded the laboratory, the doors successfully prevented the Spinosaurus from penetrating them. Uninterested, the dinosaur soon left.\n\nThe group later reacquired the satellite phone from scavenging through the Spinosaurus's dung that contained the remains of Nash and Cooper. The smell of the large predator's dung discouraged a Ceratosaurus from potentially attacking them.\n\nThe Spinosaurus made one last attempt at killing the humans before the incident ended by stalking their boat they used to escape from the Isla Sorna Aviary from its inhabitants during a thunderstorm that began at night. It swam silently, hidden beneath the deep waters of the river that were rising as the rain from the storm fell, the only indication of its presence being the native Bonitos swimming away in fear of it and the tip of its sail emerging from the water. The Spinosaurus began its attack by ramming into the back of the boat, emerged from the water, and proceeded to severely damage the boat's center console and the fuel tank, causing it to leak rapidly.\n\nThe Kirby family and Alan Grant locked themselves in a large cage on the watercraft for protection from the rampage of the Spinosaurus. However, their attempt was rendered futile when the Spinosaurus pulled the cage into the water, nearly drowning the people inside as it became submerged. While the Spinosaurus thrashed in the water searching for them, the entrapment landed on some rocks, allowing the top portion of the enclosure to surface and giving the trapped humans the oxygen they needed, though the dinosaur quickly used this to its advantage. It put its arm in the cage and grabbed Amanda Kirby, preparing to kill her. Her husband, Paul, who swam out of the cage once it submerged, successfully distracted the predator by shouting from a half-submerged crane he had just climbed. This, in turn, allowed the others to escape the cage.\n\nWith Paul Kirby gaining its full attention, the Spinosaurus responded to his calls by giving the crane two nudges with its head, causing Paul Kirby to almost fall into the raging river below, dangling with nothing else to hold on to. Afterward, Dr. Alan Grant found the boat's flare gun in the riverbed near the entrapment and shot the Spinosaurus with it. The flare did nothing of harm to its target but once it fell into the water it ignited the petroleum that had leaked out of the boat and into the river. Afraid of the fire surrounding it, the Spinosaurus fled the area as the crane collapsed around it, ending its involvement in the Isla Sorna Incident of 2001."
-			}
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Spinosaurus"
-	},
-	{
-		"id": 10,
-		"name": "Indominus Rex",
-		"type": "land",
+                "movie": "侏羅紀公園 III",
+                "scene_description": "在埃里克·柯比在伊斯拉索納島迷路期間，他了解到雖然霸王龍尿液可以嚇跑像美頜龍這樣的小恐龍，但它也可以吸引棘龍，這加強了棘龍相對於霸王龍的領土性。\n\n埃里克的母親亞曼達·柯比通過擴音器大聲呼喊她失蹤兒子的名字，顯然吸引了一隻棘龍，這隻棘龍在整個事件中一直跟隨她和她的團隊。庫珀，柯比家族雇用的雇傭兵之一，發現了這隻大型恐龍，並開始用步槍射擊它，同時他的同伴雇傭兵烏德斯基和M.B.納什逃離了該地區。攻擊未能阻止棘龍，恐龍傷害了攻擊者的手臂。這導致庫珀的團隊拼命試圖乘飛機離開島嶼。\n\n庫珀在飛機滑行跑道時跑到飛機前方，試圖說服納什停止飛機。棘龍迅速出現在受傷雇傭兵的右側，就在飛機準備起飛時吞噬了他。飛機在奪取第一個受害者生命幾秒鐘後與棘龍的側翼相撞。碰撞對大型獸腳類動物造成的傷害只是輕微的，儘管飛機墜毀到周圍叢林的樹木中。\n\n棘龍很快就在損壞的飛機內找到了庫珀團隊的其餘成員，移除了駕駛艙，並用其強壯的下顎抓住了納什的腿。納什通過抓住亞曼達·柯比的腿拼命對抗棘龍的抓力，但儘管他和烏德斯基努力，他還是迅速被拖出飛機，在試圖爬走時被殺死。棘龍發出了一聲巨大的咆哮，劇烈地搖動飛機，直到它從樹上掉下來摔到下面的地面上。隨著乘客現在在它的腳下，棘龍繼續其破壞行為。棘龍然後開始將已經損壞的飛機向自己滾動，用腳踩扁它，並將頭撞入剩餘部分，尋找裡面的人類。艾倫·格蘭特博士和他的團隊從棘龍正在清理的殘骸中逃跑，希望它會失去對他們的視線。棘龍很快跟上並開始在叢林中追趕他們，但被一片樹木阻擋，暫時阻止了它繼續追趕。棘龍設法繞過障礙物，很快就遇到了從霸王龍那裡逃跑的獵物。\n\n一旦棘龍和霸王龍看到彼此，衝突就隨之而來。霸王龍是第一個攻擊的，它用強壯的下顎咬住棘龍的脖子，將其釘在地上。儘管如此，棘龍迅速重新站起來，掙脫了霸王龍的抓力，趁機試圖咬對手的側翼，霸王龍也做了同樣的事情。霸王龍然後決定頭部衝向棘龍，將它推向前方，儘管這讓它容易受到下一次攻擊。棘龍咬住霸王龍的脖子，用其強大的前臂抓住它並將其折斷，殺死了霸王龍。棘龍在宣稱其最近殺戮的屍體時勝利地咆哮。這場戰鬥讓人類遊客最終從兇猛的棘龍那裡逃脫，但他們在整個事件中會多次遇到這隻巨型獸腳類動物。\n\n當棘龍吞噬雇傭兵時，他們的衣服和裝備沒有被消化。最值得注意的物品是保羅·柯比給納什的衛星電話，它會在它的胃裡響起。埃里克·柯比剛剛遇到艾倫·格蘭特，聽到了他父親衛星電話的響聲，以為他的家人在附近。儘管他和艾倫·格蘭特博士確實在伊斯拉索納鳥舍觀測站大型周邊圍欄的對面與他的家人重聚，但在他們意識到保羅缺少他的電話後，他們都很快意識到棘龍在他們身後的存在。\n\n一旦最近重聚的團隊看到棘龍，它就開始追趕埃里克和艾倫，但兩人通過鑽過圍欄中的一個洞到達了圍欄的另一邊。一瞬間，捕食者似乎被阻止了，無法越過圍欄，直到棘龍撞破了周邊圍欄。隨著他們對棘龍的唯一防禦手段被突破，艾倫·格蘭特博士、柯比家族和他的同事比利·布倫南逃往伊斯拉索納野外實驗室。一進入，保羅·柯比和艾倫·格蘭特就在棘龍能進入之前用障礙物堵住了門。與圍繞實驗室的圍欄不同，門成功地阻止了棘龍穿透它們。不感興趣，恐龍很快就離開了。\n\n該團隊後來從棘龍的糞便中清理出衛星電話，糞便中含有納什和庫珀的遺骸。大型捕食者糞便的氣味阻止了一隻肉牛龍潛在地攻擊他們。\n\n棘龍在事件結束前最後一次試圖殺死人類，在夜間開始的雷暴期間，跟蹤他們用來逃離伊斯拉索納鳥舍及其居民的船隻。它安靜地游泳，隱藏在因暴風雨降雨而上漲的河流深水中，它存在的唯一跡象是原生鯛魚因恐懼而游開，以及它的帆的頂端從水中露出。棘龍通過撞擊船的後部開始攻擊，從水中露出，並嚴重損壞船的中央控制台和燃料箱，導致其快速洩漏。\n\n柯比家族和艾倫·格蘭特將自己鎖在船上的一個大籠子裡，以保護自己免受棘龍的狂暴攻擊。然而，當棘龍將籠子拉入水中時，他們的嘗試變得無效，因為籠子被淹沒，裡面的人幾乎溺水。當棘龍在水中翻騰尋找他們時，陷阱落在一些岩石上，讓圍欄的頂部浮出水面，為被困的人類提供了他們需要的氧氣，儘管恐龍很快利用了這一點。它將手臂伸進籠子，抓住亞曼達·柯比，準備殺死她。她的丈夫保羅一旦籠子被淹沒就游出了籠子，通過從他剛爬上的半淹沒起重機上大喊成功地分散了捕食者的注意力。這反過來讓其他人逃出了籠子。\n\n隨著保羅·柯比獲得它的全部注意力，棘龍通過用頭輕推起重機兩次來回應他的呼喊，導致保羅·柯比幾乎掉入下面洶湧的河流中，除了懸掛什麼都抓不住。之後，艾倫·格蘭特博士在陷阱附近的河床中找到了船的信號槍，並用它射擊棘龍。信號彈對其目標沒有造成傷害，但一旦它落入水中，它點燃了從船中洩漏並進入河流的石油。害怕周圍的火焰，棘龍在起重機倒塌時逃離了該地區，結束了它在2001年伊斯拉索納島事件中的參與。"
+            }
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Spinosaurus"
+    },
+    {
+        "id": 10,
+        "name": "帝王暴龍",
+        "type": "land",
         "latitude": 28.5729,
         "longitude": -80.6490,
-		"movies": [
-			"Jurassic World"
-		],
-		"movie_scenes": [
-			{
-                "id": 1,
-				"movie": "Jurassic World",
-				"scene_description": "Two I. rex were meant to be kept in their own paddock that had walls with a height of 12 meters (40 feet). This was also planned in case one of them died. However, the older Indominus cannibalized her own sibling and would also attack the workers of her paddock as well. Three weeks before their paddock was open to the public, Simon Masrani visited the paddock. He had not been able to do so for many months due to him being needed for several meeting and events. At the time of his visit, the lone Indominus was not fully grown and was only 12.2 meters (40 ft). Simon told Claire Dearing to consult Owen Grady to see if he was interested in taking a job requiring him to inspect the paddock for any vulnerabilities after seeing her attempt of breaking the glass in the observation deck.\n\nThat same day, the Indominus later managed to avoid her temperature being picked up by the thermal cameras thanks to the frog DNA in her species and left claw marks on the walls to make them think she was able to climb over the enclosure's wall. When Owen Grady, paddock supervisor Nicholas Letting and worker Nick Kilgore came in to investigate the damaged paddock, the hybrid ambushed them as soon as they got word that she was still in the paddock, making a quick meal out of Kilgore in the process. As they fled, she managed to break through the door as it was not fully shut. Free at last, the I. rex managed to detect and eat Letting, but Owen evaded her by hiding under a nearby crane outside of her paddock and then cut the crane's fuel tank, masking his scent. The Indominus rex then headed off toward the Jurassic World park, attracted by the thermal signatures of the visitors there.\n\nThe Indominus then came across a group of campers from Camp Cretaceous. After killing a Brachiosaurus and two employees trying to warn them, the Indominus tried to get Darius Bowman, Brooklynn, Ben Pincus, Kenji Kon, Sammy Gutierrez and Yasmina Fadoula by tearing down the observation deck they were on. However the campers managed to elude her by using a zipline to escape. It then tore apart their campground before coming across a caged Carnotaurus named Toro and used its great strength to tear down the fence, setting him free.\n\nHer escape was not reported to Jurassic World visitors because Simon Masrani thought the Asset Containment Unit would capture her by following her tracker implant. The I. rex traveled south of her paddock having detected the thermal signatures of the visitors in Main Street. She managed to claw out her tracker, along with some flesh still attached to it, and ambushed the team as soon as they arrived, killing most of the troopers, including Katashi Hamada, Craig, and other members of the team, convincing Owen that the island needed to be evacuated.\n\nThis Indominus might have been responsible for opening one of the Gyrosphere Valley's fences to the Restricted Area of Isla Nublar.\n\nShe then found brothers, Zach and Gray Mitchell, who were observing four Ankylosaurus in the island's Restricted Area after traveling through the opened gate and attacked the two. In her attack, she agitated one of the Ankylosaurus who proceeded to fight back against her though her counterattack ended with her being killed by the Indominus via rolling her onto her back and breaking her neck. She resumed attacking the two brothers by piercing her mid talon into the glass and rotated the vehicle so the boys could see their demise. She then attempted to chomp the Gyrosphere whole but got her mouth stuck. She attempted to smash it several times into the ground to crack it open, but the two brothers escaped by getting out of their damaged Gyrosphere and jumping off a waterfall. She gave out a loud roar in disappointment and headed to the Gyrosphere Valley.\n\nThe Indominus soon encountered the kids from Camp Cretaceous again, along with Bumpy, a young Ankylosaurus, found an abandoned ACU van. Because he had a learner's permit, Kenji was able to drive it. The kids barely escaped from the pursuing hybrid by driving off a cliff and down a steep incline, seeking refuge in a private lab operated by Dr. Wu. Wu's assistant Eddie, who was hiding in the lab, stole the van and abandoned the children, only to be waylaid by Indominus who knocked the van off the road and killed him. After this, the kids found a second van parked nearby and were able to escape in that, despite the I. rex chasing them.\n\nShortly afterward, the Indominus attacked a herd of Apatosaurus, killing five and fatally injuring one before moving on into the restricted area of Isla Nublar, leaving their bodies uneaten. While in the restricted area, the I. rex discovered Owen Grady and Claire Dearing inside the Visitor Center to which she took the opportunity to attack and chase them after pretending not to notice them and breaking through the ceiling. However, her pursuit of the humans ended when she saw the JW001 piloted by Masrani outfitted with a heavy machine gun in pursuit of her. She led her pursuer to the Jurassic World Aviary where she smashed through the enclosure's walls and scared the pterosaurs inside out of the aviary to the open hole she created. This was witnessed from afar by both Claire Dearing and Owen Grady as well as the Camp Cretaceous kids, who'd crashed their second van into a boulder. As the freed pterosaurs led to the destruction of JW001 and attacked the guests in Main Street, the Indominus traveled further into the restricted area of the island.\n\nThat night in the restricted area the members of Jurassic World's Velociraptor pack found her. However, when she began communicating with the raptors, Owen realized and remarked that the Indominous was part raptor. She became the alpha of their pack. As the leader of the pack, she commanded the raptors that were under her control to attack the humans that came with them and were in the area, to which they followed this order. Upon the initiation of this order, the InGen Security troopers, Owen, and Barry Sembène, who were following the Velociraptors opened fire on the hybrid. She managed to escape the brawl that ensued as the small arms fire had little to no effect on her, but she did nearly collapse on the ground when she was hit by a rocket from one of the troopers while escaping.\n\nThe I. rex finally arrived in Main Street where she met Owen, Claire, the Mitchell brothers, and the three remaining raptors once again, commanding the raptors to finish them off. Owen successfully attempts to regain Blue's trust by removing her camera only seconds before the hybrid's arrival. Blue once again regards Owen as her alpha. Blue screeches at the I. rex, shortly before it responded by knocking her into a wall, seemingly killing her. The raptors, now aligned with Owen's group again, proceeded to jump on and attack the Indominus while Owen provided extra fire, albeit ineffective fire, with his rifle. But the fight ends fairly quickly after the Indominus easily kills Delta by tossing her into a grill, incinerating her, and snatches and throws Echo away. With the raptors defeated, the Indominus rex then proceeded to resume hunting Owen and the Mitchell brothers who were huddled inside the Jurassic Traders Outpost, one of Main Street's shops. She nearly dragged Gray to her, but was stopped when Claire threw a flare at her, which then caused her to turn her attention to another dinosaur who challenged her: Jurassic World's veteran Tyrannosaurus rex.\n\nThe T. rex carried out a heavy assault on Indominus, and the two dinosaurs engaged in a ferocious battle. Though the T. rex initially dominated the fight, she was eventually brought to the ground by the hybrid's strength, destroying the Jurassic Traders Outpost and almost killing Owen Grady, Gray, and Zach. The Indominus almost delivered the killing blow before she was attacked by Blue who was still alive from the onslaught. This allowed the tyrant to return to her feet and grab the I. rex by the neck, pushing her into many of Main Street's buildings, all while Blue assisted the Tyrannosaurus. Finally, she was flung to the edge of the Jurassic World Lagoon. The attacks from both the T. rex and Blue were so heavy that it caused the hybrid to actually bleed and pieces of metal were even sticking out of the left side of her torso. The I. rex got back up from the ground, however, still ready to fight the theropods once more. While she let out a roar, the lagoon's resident Mosasaurus detected the hybrid and proceeded to emerge out of the water to pull the I. rex under the water to her death."
-			}
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Indominus_rex"
-	},
-	{
-		"id": 11,
-		"name": "Mosasaurus",
-		"type": "sea",
-        "latitude": 65.53627,
-        "longitude": -168.08284,
-		"movies": [
-			"Jurassic World",
-			"Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
-		],
-		"movie_scenes": [
-			{
-                "id": 1,
-				"movie": "Jurassic World",
-				"scene_description": "Gray and Zach Mitchell attended the Mosasaur Feeding Show and the Underwater Observatory in which they saw the Mosasaurus consume a shark.\n\nFollowing the escape of The Aviary's residents from their enclosure, the Mosasaurus devoured a Pteranodon that was flying over its enclosure to capture Zara Young, also eating Zara, who was in the talons of the Pteranodon.\n\nAt the end of the battle between the Indominus rex, the park's veteran T. rex, and Blue the Velociraptor, the Mosasaurus beached itself to catch the hybrid in its jaws and dragged it to the bottom of the lagoon, thus killing it."
-			},
-			{
-                "id": 2,
-				"movie": "Jurassic World: Fallen Kingdom",
-				"scene_description": "It is revealed that the individual Mosasaurus seen in Jurassic World has survived the months it has spent on Isla Nublar. It was thought to be dead when the submarine went in to collect a sample of what was left of Indominus rex. The Mosasaurus then ate the sub, along with a mercenary trying to escape on a helicopter, and when the gates were left open, it escaped the lagoon and swam into the ocean. It was last seen trying to eat surfers off of a coast."
-			},
+        "movies": [
+            "侏羅紀世界"
+        ],
+        "movie_scenes": [
             {
-                "id": 3,
-                "movie": "Jurassic World: Dominion",
-                "scene_description": "In 2022, the Department of Prehistoric Wildlife has confirmed sightings of the Mosasaurus somewhere in the Pacific Ocean, near San Francisco, in Seattle, in the corals of Hawaii, Okinawa, Japan, Lathryn's Hook, Alaska and Auckland, New Zealand where it teamed up with a pod of orcas to target great white sharks. The Mosasaurus currently follows its main prey, the great white shark, across their migration routes.\n\nAt the start of the film, the Mosasaurus is seen attacking a crab fishing boat named the Saga in order to steal the crabs out of the baited traps, causing the boat to turn over. The Mosasaurus is later seen peacefully mingling with a pod of humpback whales at the very end of the film."
-            }
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Mosasaurus"
-	},
-	{
-		"id": 12,
-		"name": "Dimorphodon",
-		"type": "air",
-        "latitude": 40.7484,
-        "longitude": -73.9857,
-		"movies": [
-			"Jurassic World",
-            "Jurassic World: Dominion"
-		],
-		"movie_scenes": [
-			{
                 "id": 1,
-				"movie": "Jurassic World",
-				"scene_description": "During the rampage of Jurassic World's latest attraction Indominus rex, all the residents in the Aviary, including Dimorphodon, were freed when the Indominus rex broke into the Aviary in its rampage, creating a large opening the Aviary. The pterosaurs then escaped and wreaked havoc on the island. A mixed flock of Dimorphodon and Pteranodon traveled to the Main Street of Jurassic World where they attacked the human visitors in the area, when Gray, Zach and Zara were stuck in the Main Street. Gray attempted to run to safety but this almost led to him being decapitated by a Dimorphodon but luckily Zach pulled him back just in time. One Dimorphodon attempted to attack Owen Grady by pouncing on him and tried to maul his face but it was shot down by Claire Dearing who picked up a dropped gun.\n\nOne Dimorphodon managed to fly out of Isla Nublar, but was soon sniped by an InGen Soldier who saw it flying when he was being transported to the island. After the incident, any remaining Dimorphodon were flying wildly on the island.\n\nWhile no Dimorphodon appeared in Jurassic World: Fallen Kingdom, it has been revealed that there were surviving Dimorphodon populations on Isla Nublar, but as none were seen being taken to Lockwood Manor, it can be assumed that the species has fallen back into extinction, although being capable flyers, they may have flown off the island like the Pteranodons are seen doing so at the end of the film. However, some Dimorphodon were seen on a news cam at the beginning of the film while the newscaster talked about the Jurassic World Incident."
-			},
-            {
-                "id": 2,
-                "movie": "Jurassic World: Dominion",
-                "scene_description": "By 2022, the Department of Prehistoric Wildlife had confirmed sightings of Dimorphodon in Miyajima Japan, Bali Indonesia, and Perth Australia. The DPW noted Dimorphodon being a common species to be illegally kept as pets.\n\nBy 2022, the Department of Fish and Wildlife disrupted an illegal Dimorphodon breeding market. Later that year, multiple Dimorphodon were being sold within the Amber Clave Night Market, with one man holding a Dimorphodon on his hand with a falconry glove. Some of these cages were knocked over by Rainn Delacourt in his attempt to escape Owen Grady."
+                "movie": "侏羅紀世界",
+                "scene_description": "兩隻帝王暴龍原本應該被關在自己的圍欄中，圍欄的牆高12米（40英尺）。這也是為了防止其中一隻死亡而計劃的。然而，年長的帝王暴龍蠶食了自己的兄弟姐妹，還會攻擊她圍欄的工作人員。在她們的圍欄向公眾開放前三週，西蒙·馬斯拉尼參觀了圍欄。由於需要參加幾次會議和活動，他好幾個月都無法這樣做。在他參觀時，孤獨的帝王暴龍還沒有完全成長，只有12.2米（40英尺）長。西蒙告訴克萊爾·迪林，在看到她試圖打破觀察甲板的玻璃後，諮詢歐文·格雷迪，看看他是否有興趣接受一項需要他檢查圍欄是否有任何漏洞的工作。\n\n同一天，帝王暴龍後來由於她物種中的青蛙DNA，成功避免了熱像攝影機探測到她的溫度，並在牆上留下爪痕，讓他們以為她能夠爬過圍欄的牆。當歐文·格雷迪、圍欄主管尼古拉斯·萊廷和工人尼克·基爾戈爾進入調查損壞的圍欄時，混血種在他們得知她仍在圍欄中時伏擊了他們，在此過程中迅速將基爾戈爾作為食物。當他們逃跑時，她成功地撞破了門，因為門沒有完全關閉。終於自由了，帝王暴龍成功地探測並吃掉了萊廷，但歐文通過躲在她圍欄外附近的起重機下並切斷起重機的燃料箱來逃避她，掩蓋了他的氣味。帝王暴龍然後前往侏羅紀世界公園，被那裡遊客的熱信號所吸引。\n\n帝王暴龍然後遇到了白堊紀營地的一群露營者。在殺死一隻雷龍和兩名試圖警告他們的員工後，帝王暴龍通過撕裂他們所在的觀察甲板試圖抓到達利厄斯·鮑曼、布魯克琳、本·平卡斯、健二·康、薩米·古鐵雷斯和亞絲米娜·法杜拉。然而，露營者通過使用索道逃脫成功躲避了她。然後它撕毀了他們的營地，遇到了一隻名叫托羅的籠中肉牛龍，並用其巨大的力量撕毀了圍欄，釋放了他。\n\n她的逃脫沒有報告給侏羅紀世界的遊客，因為西蒙·馬斯拉尼認為資產控制單位會通過跟蹤她的追蹤器植入物來捕獲她。帝王暴龍向南行進，探測到主街遊客的熱信號。她成功地用爪子抓出了她的追蹤器，上面還附著一些肉，並在他們到達時伏擊了團隊，殺死了大多數士兵，包括片山克志、克雷格和團隊的其他成員，說服歐文島嶼需要疏散。\n\n這隻帝王暴龍可能是打開回轉球谷之一到伊斯拉努布拉島限制區域的圍欄的負責者。\n\n然後她發現了兄弟扎克和格雷·米切爾，他們在通過打開的大門前往島嶼限制區域後正在觀察四隻甲龍。在她的攻擊中，她激怒了一隻甲龍，甲龍開始反擊她，儘管她的反擊以帝王暴龍將她翻轉到背部並折斷她的脖子殺死她而告終。她通過將中爪刺入玻璃並旋轉車輛讓男孩們看到他們的滅亡來繼續攻擊兩兄弟。然後她試圖整個吞噬回轉球，但嘴被卡住了。她多次試圖將其砸到地上以使其破裂，但兩兄弟通過離開損壞的回轉球並跳下瀑布逃脫了。她失望地大聲咆哮，前往回轉球谷。\n\n帝王暴龍很快再次遇到了白堊紀營地的孩子們，以及小甲龍邦皮，發現了一輛廢棄的ACU車輛。因為他有學習許可證，健二能夠駕駛它。孩子們通過駕車衝下懸崖和陡峭的斜坡勉強逃脫了追趕的混血種，在吳博士操作的私人實驗室中尋求庇護。躲在實驗室的吳的助手埃迪偷了車輛並拋棄了孩子們，但被帝王暴龍攔截，她將車輛撞下道路並殺死了他。在此之後，孩子們發現附近停著第二輛車輛，儘管帝王暴龍追趕他們，但能夠逃脫。\n\n不久之後，帝王暴龍攻擊了一群雷龍，殺死了五隻並致命傷害了一隻，然後移動到伊斯拉努布拉島的限制區域，留下他們的屍體未食用。在限制區域時，帝王暴龍發現歐文·格雷迪和克萊爾·迪林在遊客中心內，她趁機在假裝沒有注意到他們並破壞天花板後攻擊和追趕他們。然而，當她看到西蒙·馬斯拉尼駕駛的配備重機槍的JW001直升機追趕她時，她對人類的追趕結束了。她將追趕者引導到侏羅紀世界鳥舍，在那裡她撞破了圍欄的牆壁，嚇跑了裡面的翼龍到她創造的開放洞穴。克萊爾·迪林和歐文·格雷迪以及白堊紀營地的孩子們從遠處目睹了這一點，他們的第二輛車撞向了一塊巨石。當釋放的翼龍導致JW001的毀滅並攻擊主街的客人時，帝王暴龍進一步進入島嶼的限制區域。\n\n那天晚上在限制區域，侏羅紀世界迅猛龍群的成員找到了她。然而，當她開始與迅猛龍交流時，歐文意識到並評論道帝王暴龍是部分迅猛龍。她成為了他們群體的阿爾法。作為群體的領導者，她命令在她控制下的迅猛龍攻擊與他們一起來到該地區的人類，他們遵循了這個命令。在啟動這個命令後，英根安全部隊、歐文和巴里·森貝納跟隨迅猛龍向混血種開火。她成功逃脫了隨之而來的混戰，因為小型武器火力對她幾乎沒有效果，但當她逃跑時被其中一名士兵的火箭彈擊中，差點倒地。\n\n帝王暴龍最終到達主街，在那裡她再次遇到了歐文、克萊爾、米切爾兄弟和剩餘的三隻迅猛龍，命令迅猛龍解決他們。歐文在混血種到達前幾秒鐘通過移除布魯的攝影機成功嘗試重新獲得布魯的信任。布魯再次視歐文為她的阿爾法。布魯對帝王暴龍尖叫，不久後它通過將她撞向牆壁回應，似乎殺死了她。迅猛龍現在再次與歐文的團隊結盟，開始跳上並攻擊帝王暴龍，同時歐文提供額外的火力，儘管無效的火力，用他的步槍。但戰鬥在帝王暴龍輕易通過將德爾塔扔向烤架殺死德爾塔，將她焚化，並抓住並扔走埃可後很快結束。隨著迅猛龍被擊敗，帝王暴龍然後繼續獵殺蜷縮在侏羅紀商人前哨店（主街商店之一）內的歐文和米切爾兄弟。她幾乎將格雷拖向她，但當克萊爾向她扔信號彈時被阻止，這讓她將注意力轉向另一隻挑戰她的恐龍：侏羅紀世界的老將霸王龍。\n\n霸王龍對帝王暴龍進行了猛烈攻擊，兩隻恐龍進行了激烈的戰鬥。儘管霸王龍最初主導了戰鬥，但她最終被混血種的力量打倒在地，摧毀了侏羅紀商人前哨並幾乎殺死了歐文·格雷迪、格雷和扎克。帝王暴龍幾乎給出致命一擊，但她被仍然活著的布魯攻擊。這讓暴君重新站起來，抓住帝王暴龍的脖子，將她推入主街的許多建築物中，同時布魯協助霸王龍。最後，她被扔到侏羅紀世界湖泊的邊緣。來自霸王龍和布魯的攻擊如此沉重，以至於導致混血種實際出血，甚至有金屬片從她軀幹的左側伸出。帝王暴龍從地上爬起來，然而，仍然準備再次與獸腳類動物戰鬥。當她發出咆哮時，湖泊的居民滄龍探測到了混血種，並從水中出現將帝王暴龍拖到水下致死。"
             }
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Dimorphodon"
-	},
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Indominus_rex"
+    },
+    {
+        "id": 11,
+        "name": "Spinosaurus",
+        "type": "land",
+        "latitude": 39.7374974,
+        "longitude": -104.9833087,
+        "movies": [
+            "侏羅紀公園 III"
+        ],
+        "movie_scenes": [
+            {
+                "id": 1,
+                "movie": "侏羅紀公園 III",
+                "scene_description": "During his time lost on Isla Sorna Eric Kirby learned that though Tyrannosaurus rex urine can scare off small dinosaurs like Compsognathus, it can also attract Spinosaurus, which reinforces the territoriality of Spinosaurus in relation to Tyrannosaurus.\n\nAmanda Kirby, Eric's mother, apparently attracted a Spinosaurus that would follow her and her group throughout the incident by shouting her missing son's name through a megaphone. Cooper, one of the mercenaries hired by the Kirby family, spotted the large dinosaur and began to fire his rifle at it as his fellow mercenaries, Udesky and M.B. Nash, fled the area. The attack failed to stop the Spinosaurus and the dinosaur injured its attacker's arm. This caused Cooper's group to desperately attempt to leave the island in their plane.\n\nCooper ran in front of the plane as it taxied down the airstrip, and tried to convince Nash to stop the plane. The Spinosaurus quickly emerged to the right of the wounded mercenary and proceeded to devour him just as the plane prepared to lift off. The airplane collided with the Spinosaurus's flank just seconds after it takes the life of its first victim. The collision dealt nothing more than a minor injury to the large theropod, though the plane crashed into a tree in the surrounding jungle.\n\nThe Spinosaurus soon quickly found the rest of Cooper's group inside the damaged airplane, removed the cockpit and grabbed Nash's leg with its strong jaws. Nash desperately fought against the Spinosaurus grip by grabbing Amanda Kirby's legs but despite his and Udesky's efforts, he was swiftly pulled out of the plane and killed as he tried to crawl away. The Spinosaurus gave out a loud roar that shook the plane violently until it fell out of the tree and onto the ground below. With the passengers now under its feet, the Spinosaurus continued its rampage. The Spinosaurus then proceeded to roll the already damaged airplane towards itself, flatten it with its foot and rammed its head into the remaining portion, searching for the humans inside. Dr. Alan Grant and his team fled from the wreckage the Spinosaurus was scavenging, hoping it would lose sight of them. The Spinosaurus was quick to follow and began to chase them throughout the jungle only to be stopped by a patch of trees that temporarily blocked it from continuing its pursuit. The Spinosaurus managed to make its way around the blockage and met up with its prey soon afterward fleeing from the Tyrannosaurus.\n\nA conflict ensued as soon as the Spinosaurus and the Tyrannosaurus rex saw one another. The Tyrannosaurus was the first to strike, he clamped down on the Spinosaurus' neck using his strong jaws, pinning it to the ground. Nonetheless, the Spinosaurus briskly got back on its feet and broke free of the Tyrannosaurus grip, taking the chance to try and bite its opponent's flanks, with the T. rex doing the same as well. The T. rex then decided to charge headfirst into the Spinosaurus, pushing it forward, though this left him vulnerable to its next strike. The Spinosaurus bit down on the Tyrannosaurus neck, proceeded to grab it with its powerful forearms and snapped it, killing the Tyrannosaurus rex. The Spinosaurus roared triumphantly as it claimed the carcass of its recent kill. The battle allowed the human visitors to finally escape from the vicious Spinosaurus, but they would encounter the giant theropod several times throughout the incident.\n\nWhen the Spinosaurus consumed the mercenaries, their clothes and gear were undigested. The most notable of the objects was Paul Kirby's satellite phone that he gave to Nash that would ring inside its stomach. Eric Kirby, who had just met Alan Grant, heard this ringing of his father's satellite phone and assumed his family was in the area. Though he and Dr. Alan Grant did indeed reunite with his family on the opposite sides of the Isla Sorna Aviary observatory's large perimeter fence, they all were soon aware of the Spinosaurus's presence behind them after they realized that Paul lacked his phone.\n\nAs soon as the recently reunited group saw the Spinosaurus it began to chase Eric and Alan, but the two reached the other side of the fence by crawling through a hole that was in it. For a brief moment, the predator seemed to have been detoured, unable to get past the fence, until the Spinosaurus smashed through the perimeter fence. With their only means of defense against the Spinosaurus penetrated, Dr. Alan Grant, the Kirby family, and his colleague Billy Brennan fled towards the Isla Sorna Field Lab. Once inside, Paul Kirby and Alan Grant barricaded the doors right before the Spinosaurus could get inside. Unlike the fence that surrounded the laboratory, the doors successfully prevented the Spinosaurus from penetrating them. Uninterested, the dinosaur soon left.\n\nThe group later reacquired the satellite phone from scavenging through the Spinosaurus's dung that contained the remains of Nash and Cooper. The smell of the large predator's dung discouraged a Ceratosaurus from potentially attacking them.\n\nThe Spinosaurus made one last attempt at killing the humans before the incident ended by stalking their boat they used to escape from the Isla Sorna Aviary from its inhabitants during a thunderstorm that began at night. It swam silently, hidden beneath the deep waters of the river that were rising as the rain from the storm fell, the only indication of its presence being the native Bonitos swimming away in fear of it and the tip of its sail emerging from the water. The Spinosaurus began its attack by ramming into the back of the boat, emerged from the water, and proceeded to severely damage the boat's center console and the fuel tank, causing it to leak rapidly.\n\nThe Kirby family and Alan Grant locked themselves in a large cage on the watercraft for protection from the rampage of the Spinosaurus. However, their attempt was rendered futile when the Spinosaurus pulled the cage into the water, nearly drowning the people inside as it became submerged. While the Spinosaurus thrashed in the water searching for them, the entrapment landed on some rocks, allowing the top portion of the enclosure to surface and giving the trapped humans the oxygen they needed, though the dinosaur quickly used this to its advantage. It put its arm in the cage and grabbed Amanda Kirby, preparing to kill her. Her husband, Paul, who swam out of the cage once it submerged, successfully distracted the predator by shouting from a half-submerged crane he had just climbed. This, in turn, allowed the others to escape the cage.\n\nWith Paul Kirby gaining its full attention, the Spinosaurus responded to his calls by giving the crane two nudges with its head, causing Paul Kirby to almost fall into the raging river below, dangling with nothing else to hold on to. Afterward, Dr. Alan Grant found the boat's flare gun in the riverbed near the entrapment and shot the Spinosaurus with it. The flare did nothing of harm to its target but once it fell into the water it ignited the petroleum that had leaked out of the boat and into the river. A afraid of the fire surrounding it, the Spinosaurus fled the area as the crane collapsed around it, ending its involvement in the Isla Sorna Incident of 2001."
+            }
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Spinosaurus"
+    },
+    {
+        "id": 12,
+        "name": "Indominus Rex",
+        "type": "land",
+        "latitude": 28.5729,
+        "longitude": -80.6490,
+        "movies": [
+            "侏羅紀世界"
+        ],
+        "movie_scenes": [
+            {
+                "id": 1,
+                "movie": "侏羅紀世界",
+                "scene_description": "Two I. rex were meant to be kept in their own paddock that had walls with a height of 12 meters (40 feet). This was also planned in case one of them died. However, the older Indominus cannibalized her own sibling and would also attack the workers of her paddock as well. Three weeks before their paddock was open to the public, Simon Masrani visited the paddock. He had not been able to do so for many months due to him being needed for several meeting and events. At the time of his visit, the lone Indominus was not fully grown and was only 12.2 meters (40 ft). Simon told Claire Dearing to consult Owen Grady to see if he was interested in taking a job requiring him to inspect the paddock for any vulnerabilities after seeing her attempt of breaking the glass in the observation deck.\n\nThat same day, the Indominus later managed to avoid her temperature being picked up by the thermal cameras thanks to the frog DNA in her species and left claw marks on the walls to make them think she was able to climb over the enclosure's wall. When Owen Grady, paddock supervisor Nicholas Letting and worker Nick Kilgore came in to investigate the damaged paddock, the hybrid ambushed them as soon as they got word that she was still in the paddock, making a quick meal out of Kilgore in the process. As they fled, she managed to break through the door as it was not fully shut. Free at last, the I. rex managed to detect and eat Letting, but Owen evaded her by hiding under a nearby crane outside of her paddock and then cut the crane's fuel tank, masking his scent. The Indominus rex then headed off toward the 侏羅紀世界 park, attracted by the thermal signatures of the visitors there.\n\nThe Indominus then came across a group of campers from Camp Cretaceous. After killing a Brachiosaurus and two employees trying to warn them, the Indominus tried to get Darius Bowman, Brooklynn, Ben Pincus, Kenji Kon, Sammy Gutierrez and Yasmina Fadoula by tearing down the observation deck they were on. However the campers managed to elude her by using a zipline to escape. It then tore apart their campground before coming across a caged Carnotaurus named Toro and used its great strength to tear down the fence, setting him free.\n\nHer escape was not reported to 侏羅紀世界 visitors because Simon Masrani thought the Asset Containment Unit would capture her by following her tracker implant. The I. rex traveled south of her paddock having detected the thermal signatures of the visitors in Main Street. She managed to claw out her tracker, along with some flesh still attached to it, and ambushed the team as soon as they arrived, killing most of the troopers, including Katashi Hamada, Craig, and other members of the team, convincing Owen that the island needed to be evacuated.\n\nThis Indominus might have been responsible for opening one of the Gyrosphere Valley's fences to the Restricted Area of Isla Nublar.\n\nShe then found brothers, Zach and Gray Mitchell, who were observing four Ankylosaurus in the island's Restricted Area after traveling through the opened gate and attacked the two. In her attack, she agitated one of the Ankylosaurus who proceeded to fight back against her though her counterattack ended with her being killed by the Indominus via rolling her onto her back and breaking her neck. She resumed attacking the two brothers by piercing her mid talon into the glass and rotated the vehicle so the boys could see their demise. She then attempted to chomp the Gyrosphere whole but got her mouth stuck. She attempted to smash it several times into the ground to crack it open, but the two brothers escaped by getting out of their damaged Gyrosphere and jumping off a waterfall. She gave out a loud roar in disappointment and headed to the Gyrosphere Valley.\n\nThe Indominus soon encountered the kids from Camp Cretaceous again, along with Bumpy, a young Ankylosaurus, found an abandoned ACU van. Because he had a learner's permit, Kenji was able to drive it. The kids barely escaped from the pursuing hybrid by driving off a cliff and down a steep incline, seeking refuge in a private lab operated by Dr. Wu. Wu's assistant Eddie, who was hiding in the lab, stole the van and abandoned the children, only to be waylaid by Indominus who knocked the van off the road and killed him. After this, the kids found a second van parked nearby and were able to escape in that, despite the I. rex chasing them.\n\nShortly afterward, the Indominus attacked a herd of Apatosaurus, killing five and fatally injuring one before moving on into the restricted area of Isla Nublar, leaving their bodies uneaten. While in the restricted area, the I. rex discovered Owen Grady and Claire Dearing inside the Visitor Center to which she took the opportunity to attack and chase them after pretending not to notice them and breaking through the ceiling. However, her pursuit of the humans ended when she saw the JW001 piloted by Masrani outfitted with a heavy machine gun in pursuit of her. She led her pursuer to the 侏羅紀世界 Aviary where she smashed through the enclosure's walls and scared the pterosaurs inside out of the aviary to the open hole she created. This was witnessed from afar by both Claire Dearing and Owen Grady as well as the Camp Cretaceous kids, who'd crashed their second van into a boulder. As the freed pterosaurs led to the destruction of JW001 and attacked the guests in Main Street, the Indominus traveled further into the restricted area of the island.\n\nThat night in the restricted area the members of 侏羅紀世界's Velociraptor pack found her. However, when she began communicating with the raptors, Owen realized and remarked that the Indominous was part raptor. She became the alpha of their pack. As the leader of the pack, she commanded the raptors that were under her control to attack the humans that came with them and were in the area, to which they followed this order. Upon the initiation of this order, the InGen Security troopers, Owen, and Barry Sembène, who were following the Velociraptors opened fire on the hybrid. She managed to escape the brawl that ensued as the small arms fire had little to no effect on her, but she did nearly collapse on the ground when she was hit by a rocket from one of the troopers while escaping.\n\nThe I. rex finally arrived in Main Street where she met Owen, Claire, the Mitchell brothers, and the three remaining raptors once again, commanding the raptors to finish them off. Owen successfully attempts to regain Blue's trust by removing her camera only seconds before the hybrid's arrival. Blue once again regards Owen as her alpha. Blue screeches at the I. rex, shortly before it responded by knocking her into a wall, seemingly killing her. The raptors, now aligned with Owen's group again, proceeded to jump on and attack the Indominus while Owen provided extra fire, albeit ineffective fire, with his rifle. But the fight ends fairly quickly after the Indominus easily kills Delta by tossing her into a grill, incinerating her, and snatches and throws Echo away. With the raptors defeated, the Indominus rex then proceeded to resume hunting Owen and the Mitchell brothers who were huddled inside the Jurassic Traders Outpost, one of Main Street's shops. She nearly dragged Gray to her, but was stopped when Claire threw a flare at her, which then caused her to turn her attention to another dinosaur who challenged her: 侏羅紀世界's veteran Tyrannosaurus rex.\n\nThe T. rex carried out a heavy assault on Indominus, and the two dinosaurs engaged in a ferocious battle. Though the T. rex initially dominated the fight, she was eventually brought to the ground by the hybrid's strength, destroying the Jurassic Traders Outpost and almost killing Owen Grady, Gray, and Zach. The Indominus almost delivered the killing blow before she was attacked by Blue who was still alive from the onslaught. This allowed the tyrant to return to her feet and grab the I. rex by the neck, pushing her into many of Main Street's buildings, all while Blue assisted the Tyrannosaurus. Finally, she was flung to the edge of the 侏羅紀世界 Lagoon. The attacks from both the T. rex and Blue were so heavy that it caused the hybrid to actually bleed and pieces of metal were even sticking out of the left side of her torso. The I. rex got back up from the ground, however, still ready to fight the theropods once more. While she let out a roar, the lagoon's resident Mosasaurus detected the hybrid and proceeded to emerge out of the water to pull the I. rex under the water to her death."
+            }
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Indominus_rex"
+    },
     {
         "id": 13,
+        "name": "Mosasaurus",
+        "type": "sea",
+        "latitude": 65.53627,
+        "longitude": -168.08284,
+        "movies": [
+            "侏羅紀世界",
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
+        ],
+        "movie_scenes": [
+            {
+                "id": 1,
+                "movie": "侏羅紀世界",
+                "scene_description": "Gray and Zach Mitchell attended the Mosasaur Feeding Show and the Underwater Observatory in which they saw the Mosasaurus consume a shark.\n\nFollowing the escape of The Aviary's residents from their enclosure, the Mosasaurus devoured a Pteranodon that was flying over its enclosure to capture Zara Young, also eating Zara, who was in the talons of the Pteranodon.\n\nAt the end of the battle between the Indominus rex, the park's veteran T. rex, and Blue the Velociraptor, the Mosasaurus beached itself to catch the hybrid in its jaws and dragged it to the bottom of the lagoon, thus killing it."
+            },
+            {
+                "id": 2,
+                "movie": "侏羅紀世界: 殞落國度",
+                "scene_description": "It is revealed that the individual Mosasaurus seen in 侏羅紀世界 has survived the months it has spent on Isla Nublar. It was thought to be dead when the submarine went in to collect a sample of what was left of Indominus rex. The Mosasaurus then ate the sub, along with a mercenary trying to escape on a helicopter, and when the gates were left open, it escaped the lagoon and swam into the ocean. It was last seen trying to eat surfers off of a coast."
+            },
+            {
+                "id": 3,
+                "movie": "侏羅紀世界: 統霸天下",
+                "scene_description": "In 2022, the Department of Prehistoric Wildlife has confirmed sightings of the Mosasaurus somewhere in the Pacific Ocean, near San Francisco, in Seattle, in the corals of Hawaii, Okinawa, Japan, Lathryn's Hook, Alaska and Auckland, New Zealand where it teamed up with a pod of orcas to target great white sharks. The Mosasaurus currently follows its main prey, the great white shark, across their migration routes.\n\nAt the start of the film, the Mosasaurus is seen attacking a crab fishing boat named the Saga in order to steal the crabs out of the baited traps, causing the boat to turn over. The Mosasaurus is later seen peacefully mingling with a pod of humpback whales at the very end of the film."
+            }
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Mosasaurus"
+    },
+    {
+        "id": 14,
+        "name": "Dimorphodon",
+        "type": "air",
+        "latitude": 40.7484,
+        "longitude": -73.9857,
+        "movies": [
+            "侏羅紀世界",
+            "侏羅紀世界: 統霸天下"
+        ],
+        "movie_scenes": [
+            {
+                "id": 1,
+                "movie": "侏羅紀世界",
+                "scene_description": "During the rampage of 侏羅紀世界's latest attraction Indominus rex, all the residents in the Aviary, including Dimorphodon, were freed when the Indominus rex broke into the Aviary in its rampage, creating a large opening the Aviary. The pterosaurs then escaped and wreaked havoc on the island. A mixed flock of Dimorphodon and Pteranodon traveled to the Main Street of 侏羅紀世界 where they attacked the human visitors in the area, when Gray, Zach and Zara were stuck in the Main Street. Gray attempted to run to safety but this almost led to him being decapitated by a Dimorphodon but luckily Zach pulled him back just in time. One Dimorphodon attempted to attack Owen Grady by pouncing on him and tried to maul his face but it was shot down by Claire Dearing who picked up a dropped gun.\n\nOne Dimorphodon managed to fly out of Isla Nublar, but was soon sniped by an InGen Soldier who saw it flying when he was being transported to the island. After the incident, any remaining Dimorphodon were flying wildly on the island.\n\nWhile no Dimorphodon appeared in 侏羅紀世界: 殞落國度, it has been revealed that there were surviving Dimorphodon populations on Isla Nublar, but as none were seen being taken to Lockwood Manor, it can be assumed that the species has fallen back into extinction, although being capable flyers, they may have flown off the island like the Pteranodons are seen doing so at the end of the film. However, some Dimorphodon were seen on a news cam at the beginning of the film while the newscaster talked about the 侏羅紀世界 Incident."
+            },
+            {
+                "id": 2,
+                "movie": "侏羅紀世界: 統霸天下",
+                "scene_description": "By 2022, the Department of Prehistoric Wildlife had confirmed sightings of Dimorphodon in Miyajima Japan, Bali Indonesia, and Perth Australia. The DPW noted Dimorphodon being a common species to be illegally kept as pets.\n\nBy 2022, the Department of Fish and Wildlife disrupted an illegal Dimorphodon breeding market. Later that year, multiple Dimorphodon were being sold within the Amber Clave Night Market, with one man holding a Dimorphodon on his hand with a falconry glove. Some of these cages were knocked over by Rainn Delacourt in his attempt to escape Owen Grady."
+            }
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Dimorphodon"
+    },
+    {
+        "id": 14,
         "name": "Baryonyx",
         "type": "land",
         "latitude": 43.4927,
         "longitude": -112.0408,
         "movies": [
-            "Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
         ],
         "movie_scenes": [
             {
                 "id": 1,
-                "movie": "Jurassic World: Fallen Kingdom",
+                "movie": "侏羅紀世界: 殞落國度",
                 "scene_description": "When Isla Nublar's volcano threatened to erupt, it threatened surviving populations of Baryonyx. When the Dinosaur Protection Group made it to the island to rescue some of its dinosaurs, one Baryonyx appeared from a maintenance tunnel and attempted to attack Claire Dearing and Franklin Webb while lava is pouring in. Despite being pelted with lava, it remains unfazed and determined to get to its potential prey. Before it could attempt to devour them both, Claire and Franklin manage to lock it inside the underground control center, where it presumably met its demise by the surging lava. Another individual was seen and was transported by helicopter to the boat.\n\nAt least three Baryonyxes were captured to be sold off at the Lockwood Manor Auction. Two Baryonyxes were briefly seen escaping the estate with all the other dinosaurs, while another one that was bought at the auction was last seen being loaded onto a cargo plane to be delivered to its buyer. It is unknown what happened with this last specimen."
             },
             {
                 "id": 2,
-                "movie": "Jurassic World: Dominion",
+                "movie": "侏羅紀世界: 統霸天下",
                 "scene_description": "A juvenile Baryonyx with a prosthetic left arm was kept in for a fighting ring in the Amber Clave Night Market in Malta. When Owen Grady, Claire Dearing, and Barry Sembène arrived at the market, they witnessed this individual battling a juvenile Allosaurus. Later, when a group of French Intelligence ambushed a deal occurring outside the market, Rainn Delacourt attempted to escape from a pursuing Owen, but ended up falling in the fighting pit, where the Baryonyx attempted to attack him, but was chained to the wall and couldn't reach Delacourt. Delacourt attempted to flee but was tackled into another fighting pit by Owen, where a Lystrosaurus and juvenile Carnotaurus began mauling his arms. Meanwhile, the Baryonyx managed to pull the bricks it was chained to out of the wall, and found its way to the struggle where it started mauling Delacourt's face off."
             }
         ],
         "link": "https://jurassicpark.fandom.com/wiki/Baryonyx"
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Carnotaurus",
         "type": "land",
         "latitude": 36.8791,
         "longitude": -111.5104,
         "movies": [
-            "Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
         ],
         "movie_scenes": [
             {
                 "id": 1,
-                "movie": "Jurassic World: Fallen Kingdom",
+                "movie": "侏羅紀世界: 殞落國度",
                 "scene_description": "It first is shown that a Carnotaurus attacked Owen Grady, Claire Dearing and Franklin Webb as the volcano exploded at the Gyrosphere 08. It peers close to the Gyrosphere and roars. Soon, a Sinoceratops starts fighting with the Carnotaurus during the eruption. After a short fight, the Sinoceratops runs off and the Carnotaurus returned to attacking the humans. It begins to charge the humans but Rexy intercepted and pinned it down during the chaos, killing the Carnotaurus in the process.\n\nAt least two Carnotaurus were captured by Eli Mills and brought to the Lockwood Manor and were freed along with the other dinosaurs by Maisie Lockwood. One of the Carnotaurus, who has a broken horn and scars on its face, joins the Rexy of Isla Nublar in tearing apart and eating Eli Mills as he attempts to flee the manor with the Indominus rex DNA sample that is eventually smashed underfoot during the attack. Rexy then knocks over the Carnotaurus with her head and the Carnotaurus gets up and runs off."
             },
             {
                 "id": 2,
-                "movie": "Jurassic World: Dominion",
+                "movie": "侏羅紀世界: 統霸天下",
                 "scene_description": "A juvenile Carnotaurus and the scared adult from the Lockwood Manor were kept within the Amber Clave Night Market in Malta for its fight pit, the adult was planned to be pitted against an Allosaurus and the juvenile against a Lystrosaurus. As the juvenile's fight began, French Intelligence stopped a deal occurring just outside the market, and Rainn Delacourt attempted to escape by running back through the market pursued by Owen Grady. In an attempt to lose his pursuer, Rainn shot the locks to the crates holding the adult Carnotaurus and Allosaurus, but was caught between them and fell into the fight pit with the juvenile and the Lystrosaurus. As he attempted to escape, he was tackled by Owen and began fighting him until he was knocked over, and where both the Carnotaurus and Lystrosaurus bite down on his arms and forced him in place as Owen forcefully questioned him until a juvenile Baryonyx came in and killed Rainn. As this was occurring, the adult Carnotaurus and Allosaurus rampaged through the market and killed some of its patrons until they escaped into the city the market was situated in."
             }
         ],
         "link": "https://jurassicpark.fandom.com/wiki/Carnotaurus"
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Allosaurus",
         "type": "land",
         "latitude": 34.1381,
         "longitude": -118.3534,
         "movies": [
-            "Jurassic World: Fallen Kingdom",
-            "Jurassic World: Dominion"
+            "侏羅紀世界: 殞落國度",
+            "侏羅紀世界: 統霸天下"
         ],
         "movie_scenes": [
             {
                 "id": 1,
-                "movie": "Jurassic World: Fallen Kingdom",
+                "movie": "侏羅紀世界: 殞落國度",
                 "scene_description": "When Mount Sibo erupted, one Allosaurus was among the animals stampeding away from the mountain, as it ran next to a Gyrosphere with Claire Dearing and Franklin Webb inside, a falling magma rock hit and killed the dinosaur.\n\nAt least five other Allosaurus were captured by Ken Wheatley and his men and taken off the island to Lockwood Manor, where they are auctioned off by Eli Mills and Gunnar Eversol. During the auction, a juvenile was sold shipped off. The auction was never completed however, and the remaining Allosaurus were stuck within their cages when a nearby skirmish caused a deadly gas leak and broke the ventilation system. With no other option that would save the dinosaurs, Claire and Maisie Lockwood released the animals into the wilds of California."
             },
             {
                 "id": 2,
-                "movie": "Jurassic World: Dominion",
+                "movie": "侏羅紀世界: 統霸天下",
                 "scene_description": "An adult and a juvenile Allosaurus were held at the Amber Clave Night Market in Malta for their fight clubs. The juvenile was pitted against a juvenile Baryonyx, while the adult was planned to be pitted against an adult Carnotaurus, However, before the fight could occur, a group of french intelligence officers attacked a deal occurring outside of the market, and Rainn Delacourt ran back inside purued by Owen Grady. During the chase in an attempt to escape, Rainn shot the locks on the crates containing the adult Allosaurus and Carnotaurus, who after a brief squabble between them and Owen moved through the market, attacking and devouring several of its patrons, the Allosaurus in particular tossed a man aside with its jaws, then ate another man that the Carnotaurus caused to back up and set himself on fire after the Allosaurus ate the man that tried to extinguish the first. Some time afterwards, the pair managed to escape the market and rampaged through the city, with the Allosaurus eating at least one man on an electric scooter when the Carnotaurus distracted him."
             }
         ],
         "link": "https://jurassicpark.fandom.com/wiki/Allosaurus"
     },
-	{
-		"id": 16,
-		"name": "Indoraptor",
-		"type": "land",
-        "latitude": 35.540698,
-        "longitude": -82.552277,
-		"movies": [
-			"Jurassic World: Fallen Kingdom"
-		],
-		"movie_scenes": [
-			{
-                "id": 1,
-				"movie": "Jurassic World: Fallen Kingdom",
-				"scene_description": "During Maisie Lockwood's sneaking into the laboratory sub-level where Dr. Wu and Eli Mills were conversing over the Indoraptor's faults, Maisie hid in a darkened hallway that led to the Indoraptor's cage. Unknowingly getting too close with her back to the hybrid's enclosure, she did not see the Indoraptor reach out to try and grab her, only to be alerted when one of his claws brushed her ponytail, causing her to run away screaming, leading to her being caught and confined to her room by Mills.\n\nDuring the Lockwood Manor Auction, the Indoraptor was introduced to a crowd of wealthy people who've come from all over the world to buy the dinosaurs who were evacuated from Isla Nublar. Unfortunately, the dinosaur isn't up for auction as he's only in the prototype stage, but it doesn’t stop the audience from bidding tremendous amounts of money on the hybrid. Gunnar Eversol begins to accept bids at the behest of Eli Mills, with Russian mobster Anton Orlov winning the bid. Owen Grady then shows up with a Stygimoloch and together they cause havoc, with Owen and the Indoraptor sharing a close glance at one another.\n\nThe place empties, leaving only Ken Wheatley with the Indoraptor. He attempts to sedate the dinosaur, shooting him twice with tranquilizer darts, causing him to fall over, seemingly incapacitated. He then enters his cage with the plan of taking one of his teeth for his collection.\n\nThe Indoraptor turns out to only be faking his sedation, and remains motionless for a brief time. He then smirks just before he rises, literally disarms Ken, and begins to maul and kill him. He escapes from the cage and then his tail breaks the elevator that Gunnar Eversol along with three other members from the auction were trying to escape in.\n\nThe Indoraptor roars at Gunnar Eversol as he kills him and the other members off-screen. Moments later, he attacked and killed two of Eli Mill's guards. Owen Grady, Claire Dearing, and Maisie Lockwood run into the Indoraptor while trying to cross the main floor in the Lockwood Manor.\n\nHe chases after them and separates Maisie from Claire and Owen, injuring Claire in the process. The Indoraptor pursues Maisie as she runs towards her bedroom. He then climbs into her room through the window and is about to snatch her from her bed when Owen shows up, armed with a gun he'd taken from a dead mercenary. He fires two rounds at the Dinosaur but it doesn't do much, bar stunning him for a brief time. As he approaches Owen, ready to attack, Blue arrives and begins to assault him, keeping him occupied while Owen and Maisie escape through the window.\n\nThe Indoraptor pushes Blue out the window, with the two being separated from their fight, and he corners Owen and Maisie on the roof. Claire arrives behind it and points a laser at Owen, prompting him to attack, in an attempt to get him to fall through weakened glass. He moves and begins to fall through the glass roof, but manages to save and haul himself back up.\n\nThe Indoraptor then recovers and moves to lunge towards Owen when Blue arrives once more and resumes her attack, with both tumbling through the glass in a deadlock grapple. Once they land, the Indoraptor gets impaled by the brow horns of a Agujaceratops skull and perishes within seconds. Blue sprints away, triumphant, with the body of the hybrid being left behind on the ceratopsian skull.\n\nIt is unknown what happened with the hybrid’s body, but he was most likely disposed of, alongside the technology to create more Indoraptors in the fallout of his escape."
-			}
-		],
-		"link": "https://jurassicpark.fandom.com/wiki/Indoraptor"
-	},
     {
         "id": 17,
+        "name": "Indoraptor",
+        "type": "land",
+        "latitude": 35.540698,
+        "longitude": -82.552277,
+        "movies": [
+            "侏羅紀世界: 殞落國度"
+        ],
+        "movie_scenes": [
+            {
+                "id": 1,
+                "movie": "侏羅紀世界: 殞落國度",
+                "scene_description": "During Maisie Lockwood's sneaking into the laboratory sub-level where Dr. Wu and Eli Mills were conversing over the Indoraptor's faults, Maisie hid in a darkened hallway that led to the Indoraptor's cage. Unknowingly getting too close with her back to the hybrid's enclosure, she did not see the Indoraptor reach out to try and grab her, only to be alerted when one of his claws brushed her ponytail, causing her to run away screaming, leading to her being caught and confined to her room by Mills.\n\nDuring the Lockwood Manor Auction, the Indoraptor was introduced to a crowd of wealthy people who've come from all over the world to buy the dinosaurs who were evacuated from Isla Nublar. Unfortunately, the dinosaur isn't up for auction as he's only in the prototype stage, but it doesn't stop the audience from bidding tremendous amounts of money on the hybrid. Gunnar Eversol begins to accept bids at the behest of Eli Mills, with Russian mobster Anton Orlov winning the bid. Owen Grady then shows up with a Stygimoloch and together they cause havoc, with Owen and the Indoraptor sharing a close glance at one another.\n\nThe place empties, leaving only Ken Wheatley with the Indoraptor. He attempts to sedate the dinosaur, shooting him twice with tranquilizer darts, causing him to fall over, seemingly incapacitated. He then enters his cage with the plan of taking one of his teeth for his collection.\n\nThe Indoraptor turns out to only be faking his sedation, and remains motionless for a brief time. He then smirks just before he rises, literally disarms Ken, and begins to maul and kill him. He escapes from the cage and then his tail breaks the elevator that Gunnar Eversol along with three other members from the auction were trying to escape in.\n\nThe Indoraptor roars at Gunnar Eversol as he kills him and the other members off-screen. Moments later, he attacked and killed two of Eli Mill's guards. Owen Grady, Claire Dearing, and Maisie Lockwood run into the Indoraptor while trying to cross the main floor in the Lockwood Manor.\n\nHe chases after them and separates Maisie from Claire and Owen, injuring Claire in the process. The Indoraptor pursues Maisie as she runs towards her bedroom. He then climbs into her room through the window and is about to snatch her from her bed when Owen shows up, armed with a gun he'd taken from a dead mercenary. He fires two rounds at the Dinosaur but it doesn't do much, bar stunning him for a brief time. As he approaches Owen, ready to attack, Blue arrives and begins to assault him, keeping him occupied while Owen and Maisie escape through the window.\n\nThe Indoraptor pushes Blue out the window, with the two being separated from their fight, and he corners Owen and Maisie on the roof. Claire arrives behind it and points a laser at Owen, prompting him to attack, in an attempt to get him to fall through weakened glass. He moves and begins to fall through the glass roof, but manages to save and haul himself back up.\n\nThe Indoraptor then recovers and moves to lunge towards Owen when Blue arrives once more and resumes her attack, with both tumbling through the glass in a deadlock grapple. Once they land, the Indoraptor gets impaled by the brow horns of a Agujaceratops skull and perishes within seconds. Blue sprints away, triumphant, with the body of the hybrid being left behind on the ceratopsian skull.\n\nIt is unknown what happened with the hybrid's body, but he was most likely disposed of, alongside the technology to create more Indoraptors in the fallout of his escape."
+            }
+        ],
+        "link": "https://jurassicpark.fandom.com/wiki/Indoraptor"
+    },
+    {
+        "id": 18,
         "name": "Quetzalcoatlus",
         "type": "air",
         "latitude": 40.6892,
         "longitude": -74.0445,
         "movies": [
-            "Jurassic World: Dominion"
+            "侏羅紀世界: 統霸天下"
         ],
         "movie_scenes": [
             {
                 "id": 1,
-                "movie": "Jurassic World: Dominion",
+                "movie": "侏羅紀世界: 統霸天下",
                 "scene_description": "During a flashback of the cretaceous, four Quetzalcoatlus landed near a group of Pteranodons while one of them was scavenging the carcass of an unknown animal. Another one was seen passing through a Giganotosaurus and Tyrannosaurus rex fighting.\n\nBy 2022, the Department of Prehistoric Wildlife had a confirmed sighting of a pair of Quetzalcoatlus circling th CN Tower in Toronto, Canada.\n\nIn the year 2022, a nest is seen atop One World Trade Center in New York City containing one individual with another, presumably its mate, flying nearby. At least one adult individual was housed in Biosyn's sanctuary. The corporation's sanctuary has an Aerial Deterrent System (ADS), which keeps pterosaurs safely below 500 ft and away from inbound and outbound aircraft. However, the ADS was disabled when Kayla's plane entered Biosyn's airspace. The Quetzalcoatlus attacked Owen, Claire, and Kayla on the plane on their way to Biosyn headquarters. Quetzalcoatlus were part of the animals that escape the forest fire caused by engineering locusts. At the end of the film, three Quetzalcoatlus were seen flying with a flock of Pteranodons and birds."
             }
         ],
         "link": "https://jurassicpark.fandom.com/wiki/Quetzalcoatlus"
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Giganotosaurus",
         "type": "land",
         "latitude": 38.7436,
         "longitude": -109.4993,
         "movies": [
-            "Jurassic World: Dominion"
+            "侏羅紀世界: 統霸天下"
         ],
         "movie_scenes": [
             {
                 "id": 1,
-                "movie": "Jurassic World: Dominion",
+                "movie": "侏羅紀世界: 統霸天下",
                 "scene_description": "During the Cretaceous period, a Giganotosaurus rested a while a Moros scavenged morsels of meat stuck between the teeth of Giganotosaurus until a Tyrannosaurus approached the pair, causing the Giganotosaurus to confront the intruder and scaring away the Moros and a nearby Iguanodon. The carnivores circled and roared at each other until a fight broke out, with the Giganotosaurus quickly managing to bite the neck of its opponent and sliced it. After slicing the throat of the corpse and dumping it off a small cliff, the Giganotosaurus left the area.\n\nBy 2022, at least a single Giganotosaurus was among the dinosaurs cloned by Biosyn and kept within their valley. At some point, the Giganotosaurus had a chip inserted into its brain, allowing it to be controlled when needed.\n\nWhile Ellie Sattler, Alan Grant, and Ramsay Cole were heading towards Biosyn Valley, the Giganotosaurus slept peacefully as it was approached by a Moros. Later that day, Owen Grady and Kayla Watts witnessed the Giga encounter the clone of its old rival that was killed 65 million years ago, Rexy, the elderly Tyrannosaurus rex who was recently transported to the Biosyn Valley, scavenging a carcass of a deer that met its end at the claws of a Therizinosaurus. The pair had a brief tussle over the carcass until the Tyrannosaurus backed off, allowing the Giganotosaurus to feed on the carcass. That night, a swarm of giant locusts that was set on fire by Lewis Dodgson in an attempt to erase his criminal activity escaped their containment and started a forest fire within the valley, during which the Giganotosaurus encountered Owen, Claire Dearing, Alan, Ian Malcolm, Ellie, Maisie Lockwood, and Kayla at an observation tower near its habitat and attacked them. At first the predator only followed them slowly until Maisie attempted to climb a ladder into the observation tower, at which point it bit down on the railing around the ladder and tore it off. Before it could turn back to its quarry, Malcolm got its attention by waving a flaming locust on a bar of metal, which he threw into the predators mouth as it attempted to lunge at him, stunning the dinosaur and briefly setting its mouth on fire. As the theropod briefly writhed in pain, flames from the burning locust shot out of its mouth, similar to a dragon. The large predator quickly turned back to the group however, who had all made it to a platform that looped around the tower, and proceeded to bite the platform and attempt to pull it down with Owen and Ellie, but all of the humans made it inside, prompting the Giga to smash the glass of the tower and attempt to reach the group. Owen began stabbing the dinosaur with metal knives and broken pipes and Claire electrocuted its eye with a taser after Kayla shot it in the face with a tranquilizer dart, which forced the carnivore to retreat.\n\nAs the fire worsened, Biosyn used the chips they implanted in their animals to call them into the center of the Biosyn Research Facility. As it moved through the area, the Giganotosaurus was challenged by the old T. rex once more, and the two began battling. The Giganotosaurus managed to knock Rexy unconscious after a ferocious melee that nearly crushed the humans, and the T. rex's limp body, held underfoot by the larger animal, had pinned a sheet of metal on top of Owen, Claire, Maisie, and Ramsay and was about to crush them. Ellie saw this and attempted to help them, but the Giganotosaurus roared at her when she attempted to approach and prepared to attack. Kayla then shot a flare to distract the large theropod, which landed beside a newcomer; the Therizinosaurus. The two dinosaurs fought each other, with the aggressive herbivore landing effective slashing blows on the larger theropod until Rexy regained consciousness. Now finding itself cornered, the Giganotosaurus was unable to determine quickly enough which enemy was the greater threat, which allowed the Tyrannosaurus to bite its neck and ram it into the claws of the Therizinosaurus, impaling the predator in the neck and body before it eventually died seconds after it dropped to the ground."
             }
         ],
         "link": "https://jurassicpark.fandom.com/wiki/Giganotosaurus"
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "Atrociraptor",
         "type": "land",
         "latitude": 40.2888,
         "longitude": -76.6547,
         "movies": [
-            "Jurassic World: Dominion"
+            "侏羅紀世界: 統霸天下"
         ],
         "movie_scenes": [
             {
                 "id": 1,
-                "movie": "Jurassic World: Dominion",
+                "movie": "侏羅紀世界: 統霸天下",
                 "scene_description": "By 2022, Atrociraptors were bred as trained hunting animals bred for speed. Proclaimed as \"designer dinosaurs\", Atrociraptors were bred with multiple color schemes per individual. Soyona Santos bred and trained at least one pack made up of four individuals named Ghost, Tiger, Red, and Panthera. The pack was shipped by Santos to Malta, where she planned to have Rainn Delacourt ship them abroad to Riyadh. During the exchange, however, a squad of French Intelligence Agents, including Barry Sembène, along with Owen Grady, ambushed the exchange and chased down the truck, eventually knocking it off the road and causing it to slam part way through a wall and send the Atrociraptors' cages flying.\n\nAs the agents moved in to arrest Santos and her driver, Santos ordered the driver to release the raptors, and sent them to kill the agents as she made her escape. As Santos was escaping, Claire Dearing tracked her down and got into a fight with her, but as Claire was questioning her, Santos called Tiger into the room and marked Claire with the laser. Claire ran out of the building and onto the roof of a lower floor with Tiger behind her, the two jumping between buildings during the chase. Meanwhile, the Atrociraptors made short work of almost all of the agents, but as Red had cornered Barry inside of a boat, Owen managed to sneak in, open the boat's sun roof, and help Barry out. The two got down and made up a plan to catch Red by tricking it into running back into its cage.\n\nSantos then returned to the scene, where Barry arrested her at gunpoint, but as he did so, she managed to mark Owen, which sent both Ghost and Panthera after him. In the meantime, while being pursued by Tiger, Claire falls on a truck trailer before being helped by Kayla Watts who then drives through the city with the raptor in pursuit, until Claire uses a metal bar, sticking it between two cars as the dinosaur relentlessly chases them before hitting itself in the throat on the bar, becoming incapacitated in the process. Later, Owen arrives as Kayla begins to start her plane, still chased by Ghost and Panthera, with the latter tripping on its way to try and reach the man, leaving Ghost to be the only one pursuing Owen, who narrowly gets aboard the plane with his motorbike, followed by the dinosaur. However, the plane takes off and Owen is caught by Claire as he begins slipping. The bike then slips too and slams Ghost out of the plane, with the couple watching as the raptor plummets into the sea."
             }
         ],
         "link": "https://jurassicpark.fandom.com/wiki/Atrociraptor"
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "Therizinosaurus",
         "type": "land",
         "latitude": 40.9857,
         "longitude": -111.8949,
         "movies": [
-            "Jurassic World: Dominion"
+            "侏羅紀世界: 統霸天下"
         ],
         "movie_scenes": [
             {
                 "id": 1,
-                "movie": "Jurassic World: Dominion",
+                "movie": "侏羅紀世界: 統霸天下",
                 "scene_description": "A Therizinosaurus was cloned by Biosyn and kept within Biosyn Sanctuary. After ejecting from a crashing plane, Claire Dearing encountered the Therizinosaurus as she was hanging from the seat and parachute she ejected in. The dinosaur at first failed to notice her due to its blindness, and moving instead to fatally swat a nearby deer it heard and begin grazing. Claire used this opportunity to unbuckle and fall to the ground, but the crash alerted the Therizinosaurus to her presence. The Therizinosaurus began stalking around in search of Claire as she crawled into a pond. Claire eventually managed to get far enough in the pond to fully submerge herself until the dinosaur left.\n\nThe Therizinosaurus would be evacuated to the Biosyn compound after Lewis Dodgson tried to dispose of his bio-engineered locusts, causing a huge forest fire in the valley. During the rampage of Giganotosaurus and fight with the Tyrannosaurus known as Rexy, Kayla Watts used a flare to distract the Giganotosaurus away from her and the evacuating Owen Grady, Claire Dearing, Maisie Lockwood, Alan Grant, Ellie Sattler, Ian Malcolm, Ramsay Cole, and Henry Wu, causing its attention to focus on the Therizinosaurus as it followed the flare after the Giganotosaurus succeeded in knocking the tyrannosaur unconscious. The Therizinosaurus was quick to fight back when confronted, delivering slashing wounds to the larger carcharodontosaurid, but lost a claw on its left hand to the Giganotosaurus' bites. When Rexy regained consciousness, the Giganotosaurus was unable to determine quickly enough which enemy was the greater threat, allowing Rexy to ram the Giganotosaurus onto the Therizinosaurus' claws, killing it."
             }
         ],
         "link": "https://jurassicpark.fandom.com/wiki/Therizinosaurus"
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "Pyroraptor",
         "type": "land",
         "latitude": 58.4409,
         "longitude": -134.5459,
         "movies": [
-            "Jurassic World: Dominion"
+            "侏羅紀世界: 統霸天下"
         ],
         "movie_scenes": [
             {
                 "id": 1,
-                "movie": "Jurassic World: Dominion",
+                "movie": "侏羅紀世界: 統霸天下",
                 "scene_description": "Pyroraptor was cloned by Biosyn and released to live within their sanctuary, where at least one individual lived atop the frozen lake held behind the valley's dam. After Owen Grady and Kayla Watts crashed landed into the lake, they encountered the Pyroraptor as they attempted to move towards the dam. The Pyroraptor slowly moved towards the pair, but as the ice cracked further beneath their weight it used a hole within the ice to dive underwater, circling them at first and pursuing them when they ran. During the pursuit, Owen fell through a hole in the ice, but before the Pyroraptor could reach him Kayla managed to pull him out. With that the Pyroraptor burst from the hole and attempted to run down Kayla and Owen, with all three climbing onto a walkway on the dam and racing towards an elevator. Owen and Kayla managed to get into the elevator and shut it on the Pyroraptor, who clawed at the door even after being tazed by Kayla and the elevator beginning its descent."
             }
         ],

@@ -45,9 +45,7 @@ struct PredatorDetailView: View {
                         .font(.largeTitle)
                     
                     NavigationLink {
-                        Image(predator.image)
-                            .resizable()
-                            .scaledToFit()
+                        PredatorMapView(position: .camera(MapCamera(centerCoordinate: predator.location, distance: 10000, heading: 250, pitch: 80)))
                        
                     } label: {
                         // localtion
