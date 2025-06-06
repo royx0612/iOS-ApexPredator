@@ -30,7 +30,7 @@ class ApexPredatorClass {
         }
         
         // for debug
-        print("load success for \(apexPredators.count) dinosaurs")
+//        print("load success for \(apexPredators.count) dinosaurs")
     }
     
     func search(for searchText: String, by sortByAlphabetically: Bool, as type: TypeEnum) -> [ApexPredatorStruct] {
